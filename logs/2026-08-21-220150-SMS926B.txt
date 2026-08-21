@@ -1,0 +1,603 @@
+=== Briefly ===
+verzia:      0.1.45 (45)
+zariadenie:  samsung SM-S926B
+android:     16 (API 36)
+abi:         arm64-v8a
+RAM:         11203 MB celkom, 2648 MB voľných
+model:       gemma3-1b (528 MB), gemma3n-e2b (2990 MB)
+chyba mod.:  žiadna
+
+=== denník aplikácie ===
+08-21 12:41:47.635 [app] štart, verzia 0.1.28
+08-21 13:28:25.807 [app] štart, verzia 0.1.29
+08-21 13:29:35.065 [model] stiahnutý, 528 MB
+08-21 13:30:12.470 [gemma] model načítaný na GPU za 7545 ms
+08-21 13:30:16.868 [gemma] zhrnutie za 1490 ms, vstup 2600 znakov
+08-21 13:30:16.869 [gemma] odpoveď: 
+08-21 13:30:16.872 [gemma] po spracovaní 0 odrážok
+08-21 13:30:16.877 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 13:31:25.929 [model] stiahnutý, 528 MB
+08-21 13:34:01.005 [gemma] model načítaný na GPU za 2377 ms
+08-21 13:34:04.572 [gemma] zhrnutie za 3542 ms, vstup 832 znakov
+08-21 13:34:04.575 [gemma] odpoveď: *   Vlajkom je **dva hviezdičky** preverzené pri  **10%**. ⏎ *   Vlastný  **dva hviezdičky**  dôležia  **62 miliónov eur**. ⏎ *   4  **dva hviezdičky**  dôležia  **54 miliónov eur.**
+08-21 13:34:04.584 [gemma] po spracovaní 3 odrážok
+08-21 14:04:34.555 [update] stiahnuté 71 MB
+08-21 14:04:56.616 [update] stiahnuté 71 MB
+08-21 14:05:18.504 [app] štart, verzia 0.1.31
+08-21 14:06:07.742 [gemma] model načítaný na GPU za 3306 ms
+08-21 14:06:54.197 [gemma] zhrnutie za 2571 ms, vstup 1531 znakov
+08-21 14:06:54.198 [gemma] odpoveď: 1.  Zادرil sa na  dôležitší údaj dvoma hviezdičkami, napríklad **desať percent**. ⏎ 
+08-21 14:06:54.199 [gemma] po spracovaní 1 odrážok
+08-21 14:06:54.200 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 14:07:45.047 [gemma] zhrnutie za 38428 ms, vstup 203 znakov
+08-21 14:07:45.050 [gemma] odpoveď: *   Rozpočet schválený ⏎ *   Nezapláti  250 miliónov eur viac na  **desať percent**  z  400 miliónov  €. ⏎ *   Opozícia  názor  dovládne  dôležitý  **desať percent**  v  **ne  pôstujúci  peniažný  dla  dostupnosti  dovladených  dôležitých  dostupných  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  d
+08-21 14:07:45.061 [gemma] po spracovaní 3 odrážok
+08-21 14:09:00.875 [logy] odoslané ako 2026-08-21-140859-SMS926B.txt
+08-21 14:09:18.739 [gemma] zhrnutie za 1711 ms, vstup 2600 znakov
+08-21 14:09:18.739 [gemma] odpoveď: 
+08-21 14:09:18.740 [gemma] po spracovaní 0 odrážok
+08-21 14:09:18.740 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 14:10:37.703 [model] stiahnutý, 528 MB
+08-21 14:14:05.492 [model] stiahnutý, 528 MB
+08-21 14:30:52.741 [update] stiahnuté 71 MB
+08-21 14:32:48.102 [app] štart, verzia 0.1.32
+08-21 14:32:48.537 [update] zmazaný balík briefly-32.apk
+08-21 14:33:36.349 [gemma] model načítaný na GPU za 3121 ms
+08-21 14:33:38.568 [gemma] zhrnutie za 2219 ms, vstup 203 znakov
+08-21 14:33:38.569 [gemma] odpoveď: *   Vláda schválila nový rozpočet ⏎ *   Rozpočet je schválený na zdravotníctvo ⏎ *   Rozpočet by mal preletiť od januára ⏎ 
+08-21 14:33:38.571 [gemma] po spracovaní 3 odrážok
+08-21 14:36:21.693 [gemma] zhrnutie za 24191 ms, vstup 1440 znakov
+08-21 14:36:21.694 [gemma] odpoveď: 1 min. čítania Správy dnes na  21. aug.  2026 o 12:40\nNezávisle,  4 min. čítania  Zdroj: istock Podobne silná bola najrozšírenejšia digitálna mena v máji.\nNezávisle,  4 min. čítania  Digitálna mena bitcoin sa v piatok prudko posilnila v rámci optimizmu v súvislosti s americkou legislatívou o kryptomenách.\nNezávisle,  4 min. čítania  Tasr o tom informuje na základe správy agentúry AFP.\nNezávisle,  4 min. čítanie  Vyše  77-tisíc Bitcoin  (6649768 EUR)  sa  stúpol  o  6,9 % na  77  675,94 USD.\nNezávisle,  4 min. čítanie  Oproti   svojej  stredajšej  hodnote (19.8)  8  8  8  8  8  8  8  8  8 
+08-21 14:36:21.705 [gemma] po spracovaní 4 odrážok
+08-21 14:40:23.682 [gemma] zhrnutie za 2783 ms, vstup 2600 znakov
+08-21 14:40:23.685 [gemma] odpoveď: Zhrňte článok do troch odrážok v jazyku článku. Počína sa odrážka z '-'. Použite len informácie z textu.\n ⏎ 
+08-21 14:40:23.688 [gemma] po spracovaní 2 odrážok
+08-21 15:27:20.931 [model] CHYBA zdroj zlyhal: https://github.com/frodo21/briefly/releases/download/model/gemma3-1b-it-int4.task :: SocketException: Software caused connection abort
+java.net.SocketException: Software caused connection abort
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)
+	at java.net.SocketInputStream.read(SocketInputStream.java:173)
+	at java.net.SocketInputStream.read(SocketInputStream.java:143)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:1015)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:979)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:894)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:867)
+	at okio.InputStreamSource.read(JvmOkio.kt:93)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:153)
+	at okio.RealBufferedSource.request(RealBufferedSource.kt:210)
+08-21 15:27:20.983 [model] CHYBA zdroj zlyhal: https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/Gemma3-1B-IT_multi-prefill-seq_q4_ekv2048.task?download=true :: UnknownHostException: Unable to resolve host "huggingface.co": No address associated with hostname
+java.net.UnknownHostException: Unable to resolve host "huggingface.co": No address associated with hostname
+	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+	at okhttp3.Dns$Companion$DnsSystem.lookup(Dns.kt:49)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.kt:169)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.kt:131)
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.kt:73)
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:205)
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+08-21 15:29:31.026 [model] stiahnutý, 528 MB
+08-21 16:28:32.656 [update] stiahnuté 71 MB
+08-21 16:28:53.715 [app] štart, verzia 0.1.36
+08-21 16:28:54.130 [update] zmazaný balík briefly-36.apk
+08-21 16:29:31.911 [gemma] gemma3-1b načítaný na GPU za 3012 ms
+08-21 16:30:10.905 [katalóg] stiahnutých 2 modelov
+08-21 16:30:10.997 [gemma] zhrnutie za 4915 ms, vstup 2600 znakov
+08-21 16:30:10.999 [gemma] odpoveď: Dôležte na tieto odrážky, aby som sa s nekom presedelkom aspoň trochu so zamyslením, je zistil, že štát by sa zmenil, ⏎ *  4 % z vymeriavacieho základu.   ⏎ *  Druhý dôchodkový pilier  má jednu zásadnú výhodu - ⏎ *  Práve dlhý horizont môže aj z relatívne malých ⏎ 
+08-21 16:30:11.008 [gemma] po spracovaní 3 odrážok
+08-21 16:36:35.163 [model] CHYBA sťahovanie gemma3n-e2b zlyhalo :: SocketException: Software caused connection abort
+java.net.SocketException: Software caused connection abort
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)
+	at java.net.SocketInputStream.read(SocketInputStream.java:173)
+	at java.net.SocketInputStream.read(SocketInputStream.java:143)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:1015)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:979)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:894)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:867)
+	at okio.InputStreamSource.read(JvmOkio.kt:93)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:153)
+	at okio.RealBufferedSource.request(RealBufferedSource.kt:210)
+08-21 16:39:03.387 [model] kontrolný súčet gemma3n-e2b sedí
+08-21 16:39:03.388 [model] gemma3n-e2b stiahnutý, 2990 MB
+08-21 16:42:30.534 [gemma] gemma3n-e2b načítaný na GPU za 24700 ms
+08-21 16:43:09.351 [gemma] zhrnutie za 38813 ms, vstup 3500 znakov
+08-21 16:43:09.353 [gemma] odpoveď: - Druhotný dôchodkový pilier Slovenskej republiky umožňuje sporiteľom investovať časť odvodov z mzdy na vlastný účet a budovať finančný kapitál na dôchodok cez dlhodobé zložené úročenie. Aktuálne je odvod vo výške 4 % hrubej mzdy, čo predstavuje mesačne 80 eur pri mzde 2 000 eur. ⏎ - Štát počas posledných rokov upravoval pravidlá príspevkov do druhého piliera, pričom niektoré rozhodnutia mohli sporiteľov pripraviť o potenciálne výnosy, napríklad presun do konzervatívnych dlhopisových fondov pred výrazným rastom akciových trhov. ⏎ - Rozdiel medzi prvým a druhým pilierom spočíva v tom, že prvý pilie
+08-21 16:43:09.356 [gemma] po spracovaní 3 odrážok
+08-21 16:53:46.167 [gemma] zhrnutie za 27628 ms, vstup 1781 znakov
+08-21 16:53:46.172 [gemma] odpoveď: - Kúpanie v tatranských plesách a horských potokoch je neporiadkom, ktorý predstavuje ohľad ohľadným chemického znečistenia a ničenia ekosystémov. ⏎ - Túravisti často porušujú zákony tým, že sa kúpia v chránených tatranských plesách a horských jazierach počas dlhej sezóny, čo vedie k narastu systému neporiadku. ⏎ - Napriek sprísneniu kontrol zo strany TANAPu zostáva kúpanie v tatranských plesách dlhodobý problém vyplývajúci z rostúcich teplôt a prioritných chutí turistov nad ochranou prírody. ⏎ 
+08-21 16:53:46.175 [gemma] po spracovaní 3 odrážok
+08-21 17:15:46.740 [app] štart, verzia 0.1.36
+08-21 17:16:14.224 [gemma] gemma3-1b načítaný na GPU za 2765 ms
+08-21 17:16:58.577 [gemma] zhrnutie za 17349 ms, vstup 2600 znakov
+08-21 17:16:58.580 [gemma] odpoveď: Dobrý deň.\nRozumiem, ⏎ Zistil som, že v novom prinípke Gemini, Google permitoval,  odstrániť vodoznak, ktorý je pri Inštitúcii Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie I
+08-21 17:16:58.601 [gemma] po spracovaní 0 odrážok
+08-21 17:16:58.603 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 17:17:36.789 [katalóg] stiahnutých 2 modelov
+08-21 17:17:56.819 [katalóg] stiahnutých 2 modelov
+08-21 17:18:19.894 [update] stiahnuté 71 MB
+08-21 17:18:40.773 [app] štart, verzia 0.1.38
+08-21 17:18:41.109 [update] zmazaný balík briefly-38.apk
+08-21 17:19:18.035 [katalóg] stiahnutých 2 modelov
+08-21 17:19:38.691 [gemma] gemma3n-e2b načítaný na GPU za 7274 ms
+08-21 17:21:42.794 [gemma] zhrnutie za 93612 ms, vstup 2104 znakov
+08-21 17:21:42.798 [gemma] odpoveď: - Koalícia ochotných pripravuje zasadnutie pri príležitosti Dňa nezávislosti Ukrajiny v Kyjeve dvadsiatehoštvrtého augusta, kde budú lídri potvrádzať ďalšiu politickú a vojenskú podporu Ukrajyne. ⏎ - Macron a ďalší lídri koalície ochotných budú pôsobiť ako majstravia zasadnutia a budú viesť stretnutie s účasti desiatok lídrov vrátane Alexandra Stubba a Antonia Costu. ⏎ - Koalícia ochotných vznikla na základe bezpečnostných záruk pre Ukrajinu a účelom jej aktivity je budovať spoločnú európsku protivzdušnú obranu proti balistickým raketám. ⏎ 
+08-21 17:21:42.803 [gemma] po spracovaní 3 odrážok
+08-21 17:32:20.315 [app] štart, verzia 0.1.38
+08-21 17:32:25.795 [gemma] gemma3-1b načítaný na GPU za 3450 ms
+08-21 20:03:44.659 [app] štart, verzia 0.1.38
+08-21 21:05:28.606 [katalóg] stiahnutých 2 modelov
+08-21 21:06:35.164 [gemma] gemma3-1b načítaný na GPU za 2931 ms
+08-21 21:06:37.324 [gemma] zhrnutie za 2158 ms, vstup 203 znakov
+08-21 21:06:37.325 [gemma] odpoveď: *   Vláda schválila nový rozpočet ⏎ *   Rozpočet je schválený na zdravotníctvo ⏎ *   Rozpočet by mal preletiť od januára ⏎ 
+08-21 21:06:37.327 [gemma] po spracovaní 3 odrážok
+08-21 21:09:41.009 [gemma] zhrnutie za 1553 ms, vstup 2412 znakov
+08-21 21:09:41.011 [gemma] odpoveď: 
+08-21 21:09:41.012 [gemma] po spracovaní 0 odrážok
+08-21 21:09:41.014 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:09:46.299 [katalóg] stiahnutých 2 modelov
+08-21 21:10:01.742 [logy] odoslané ako 2026-08-21-210959-SMS926B.txt
+08-21 21:10:10.484 [gemma] zhrnutie za 1497 ms, vstup 2600 znakov
+08-21 21:10:10.484 [gemma] odpoveď: 
+08-21 21:10:10.485 [gemma] po spracovaní 0 odrážok
+08-21 21:10:10.485 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:11:44.091 [katalóg] stiahnutých 2 modelov
+08-21 21:11:48.799 [logy] odoslané ako 2026-08-21-211147-SMS926B.txt
+08-21 21:40:56.506 [katalóg] stiahnutých 2 modelov
+08-21 21:41:04.769 [logy] odoslané ako 2026-08-21-214103-SMS926B.txt
+08-21 21:41:10.640 [update] stiahnuté 71 MB
+08-21 21:41:38.333 [update] balík už je stiahnutý, preskakujem
+08-21 21:41:55.130 [update] balík už je stiahnutý, preskakujem
+08-21 21:42:00.182 [app] štart, verzia 0.1.45
+08-21 21:42:00.581 [update] zmazaný balík briefly-45.apk
+08-21 21:42:13.058 [app] štart, verzia 0.1.45
+08-21 21:43:31.460 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:43:34.175 [gemma] gemma3-1b načítaný na GPU za 2691 ms
+08-21 21:44:06.074 [gemma] zhrnutie za 31898 ms, vstup 895 znakov
+08-21 21:44:06.076 [gemma] odpoveď: 1)  Inštatný rast ceny ropy je spôсобnený  Záhlom  Tradičné  zamerané  základ  dla  Inštatnej  výskum  dla  v  dostupnosti  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  0
+08-21 21:44:06.081 [gemma] po spracovaní 1 odrážok
+08-21 21:44:06.082 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:47:03.917 [katalóg] stiahnutých 2 modelov
+08-21 21:47:42.742 [katalóg] stiahnutých 2 modelov
+08-21 21:47:47.962 [katalóg] stiahnutých 2 modelov
+08-21 21:47:51.009 [katalóg] stiahnutých 2 modelov
+08-21 21:48:47.430 [katalóg] stiahnutých 2 modelov
+08-21 21:49:07.330 [katalóg] stiahnutých 2 modelov
+08-21 21:50:38.578 [katalóg] stiahnutých 2 modelov
+08-21 21:50:40.183 [katalóg] stiahnutých 2 modelov
+08-21 21:50:41.594 [katalóg] stiahnutých 2 modelov
+08-21 21:57:34.096 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:59:59.563 [katalóg] stiahnutých 2 modelov
+08-21 22:00:14.245 [gemma] zhrnutie za 160102 ms, vstup 1723 znakov
+08-21 22:00:14.248 [gemma] odpoveď: 1.  Šéf Volkswagenu hovorí o kritickej situácii vo vnútri automobilky.\n2.  Situácia vo Volkswagene je veľmi napätá.\n3.  Tí sa obávajú rozsiahleho rušenia  40-tisíc zamestnancov.\n4.  Informaovala o tom agentúra DPA.\n5.  Spoločnosť je stále schopná konať.\n6.  ale je však potrebné urobiť tak čo najskôr.\n7.  Povedal, že prevádzková návratnosť automobilky, ktorá dosahuje  3,8 percenta.\n8.  "Príliš nízka na  40.000  zamestnancov na  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  40
+08-21 22:00:14.273 [gemma] po spracovaní 4 odrážok
+08-21 22:01:12.158 [katalóg] stiahnutých 2 modelov
+
+
+=== logcat ===
+08-21 21:57:18.986 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:18.995 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.003 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.011 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.019 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.029 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.035 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.043 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.051 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:19.060 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:21.930 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 21:57:30.251 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 21:57:30.256 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 21:57:30.268 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:30.275 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:30.285 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:30.384 I/ImeFocusController(31702): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 21:57:30.385 I/ImeFocusController(31702): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 21:57:30.393 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:31.014 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:31.025 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:31.030 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:31.045 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:57:31.046 I/VRI[MainActivity]@a3dd74c(31702): handleAppVisibility mAppVisible = true visible = false
+08-21 21:57:31.046 D/VRI[MainActivity]@a3dd74c(31702): visibilityChanged oldVisibility=true newVisibility=false
+08-21 21:57:31.054 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 21:57:31.062 I/VRI[MainActivity]@a3dd74c(31702): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=6 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 21:57:31.063 D/VRI[MainActivity]@a3dd74c(31702): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 21:57:31.064 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 21:57:31.069 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c053a50
+08-21 21:57:31.069 I/VRI[MainActivity]@a3dd74c(31702): stopped(true) old = false
+08-21 21:57:31.070 D/VRI[MainActivity]@a3dd74c(31702): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 21:57:31.070 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 21:57:31.091 D/BBA2    (31702): setIsFg isFg = false; delayValue 3999ms
+08-21 21:57:31.101 D/InputTransport(31702): Input channel destroyed: 'ClientS', fd=145
+08-21 21:57:34.100 W/Briefly (31702): 08-21 21:57:34.096 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+08-21 21:57:34.100 W/Briefly (31702): java.net.SocketTimeoutException: timeout
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
+08-21 21:57:34.100 W/Briefly (31702): 	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
+08-21 21:57:34.100 W/Briefly (31702): 	at sk.frodo21.reader.ai.Summarizer.gemini(Summarizer.kt:151)
+08-21 21:57:34.100 W/Briefly (31702): 	at sk.frodo21.reader.ai.Summarizer.access$gemini(Summarizer.kt:25)
+08-21 21:57:34.100 W/Briefly (31702): 	at sk.frodo21.reader.ai.Summarizer$summarize$4.invokeSuspend(Summarizer.kt:52)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)
+08-21 21:57:34.100 W/Briefly (31702): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)
+08-21 21:57:34.265 I/.frodo21.reader(31702): Background young concurrent mark compact GC freed 19MB AllocSpace bytes, 43(5872KB) LOS objects, 64% free, 13MB/38MB, paused 679us,14.526ms total 148.466ms
+08-21 21:57:34.300 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 21:57:34.301 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 21:57:35.142 D/Choreographer(31702): CoreRune.SYSPERF_ACTIVE_APP_BBA_ENABLE : stop animation in background states
+08-21 21:57:52.734 D/Choreographer(31702): BBA2 receive callback when in bg : 4
+08-21 21:57:52.748 D/HWUI    (31702): CacheManager::trimMemory(40)
+08-21 21:59:53.981 I/Choreographer(31702): Skipped 13330 frames!  The application may be doing too much work on its main thread.
+08-21 21:59:53.985 I/VRI[MainActivity]@a3dd74c(31702): handleAppVisibility mAppVisible = false visible = true
+08-21 21:59:53.985 I/VRI[MainActivity]@a3dd74c(31702): stopped(false) old = true
+08-21 21:59:53.985 D/VRI[MainActivity]@a3dd74c(31702): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 21:59:53.987 D/ViewRootImpl(31702): Skipping stats log for color mode
+08-21 21:59:53.989 V/XGL     (31702): ----------------------------------------------------------------------
+08-21 21:59:53.989 V/XGL     (31702): SUMD version compiled date     = 2026-01-09 09:57 - KST
+08-21 21:59:53.989 V/XGL     (31702): SUMD version revision number   = 1900168dcb
+08-21 21:59:53.989 V/XGL     (31702): SUMD version info              = Driver version: 24.0.534, git hash: 1900168dcb
+08-21 21:59:53.989 V/XGL     (31702): ----------------------------------------------------------------------
+08-21 21:59:53.989 V/XGL     (31702): Entering: Create
+08-21 21:59:54.006 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@116f0dd
+08-21 21:59:54.011 V/XGL     (31702): Exiting: Create
+08-21 21:59:54.013 I/InsetsController(31702): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,1677][1440,3120] mAttachedInsets=null mVisible=false mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 21:59:54.013 I/InsetsSourceConsumer(31702): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 21:59:54.022 I/InsetsSourceConsumer(31702): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 21:59:54.042 W/libc    (31702): Access denied finding property "vendor.perf.ems.egg"
+08-21 21:59:54.043 I/BLASTBufferQueue_Java(31702): new BLASTBufferQueue, mName= VRI[MainActivity]@a3dd74c mNativeObject= 0xb4000073ca0d8570 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 21:59:54.043 I/BLASTBufferQueue_Java(31702): update, w= 1440 h= 3120 mName = VRI[MainActivity]@a3dd74c mNativeObject= 0xb4000073ca0d8570 sc.mNativeObject= 0xb40000741a0c5690 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 21:59:54.044 W/libc    (31702): Access denied finding property "vendor.perf.ems.egg"
+08-21 21:59:54.045 I/VRI[MainActivity]@a3dd74c(31702): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=5 res=0x3 s={true 0xb40000723a0d97f0} ch=true seqId=0
+08-21 21:59:54.045 D/VRI[MainActivity]@a3dd74c(31702): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a0d97f0} hwInitialized=true
+08-21 21:59:54.046 D/VRI[MainActivity]@a3dd74c(31702): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 21:59:54.047 D/VRI[MainActivity]@a3dd74c(31702): Setup new sync=wmsSync-VRI[MainActivity]@a3dd74c#26
+08-21 21:59:54.047 I/VRI[MainActivity]@a3dd74c(31702): Creating new active sync group VRI[MainActivity]@a3dd74c#27
+08-21 21:59:54.047 D/VRI[MainActivity]@a3dd74c(31702): Start draw after previous draw not visible
+08-21 21:59:54.047 D/VRI[MainActivity]@a3dd74c(31702): registerCallbacksForSync syncBuffer=false
+08-21 21:59:54.103 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:54.116 D/VRI[MainActivity]@a3dd74c(31702): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 21:59:54.116 I/VRI[MainActivity]@a3dd74c(31702): mWNT: t=0xb40000726a99b9f0 mBlastBufferQueue=0xb4000073ca0d8570 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 21:59:54.116 I/VRI[MainActivity]@a3dd74c(31702): Setting up sync and frameCommitCallback
+08-21 21:59:54.162 I/BLASTBufferQueue(31702): [VRI[MainActivity]@a3dd74c#11](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 21:59:54.163 I/VRI[MainActivity]@a3dd74c(31702): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 21:59:54.163 D/VRI[MainActivity]@a3dd74c(31702): reportDrawFinished seqId=0
+08-21 21:59:54.186 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:54.188 I/InsetsController(31702): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mAttachedInsets=null mVisible=false mFlags=INVALID mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 21:59:54.188 I/VRI[MainActivity]@a3dd74c(31702): handleResized, frames=ClientWindowFrames{frame=[0,0][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+08-21 21:59:54.189 I/VRI[MainActivity]@a3dd74c(31702): handleResized mSyncSeqId = 0
+08-21 21:59:54.189 D/VRI[MainActivity]@a3dd74c(31702): reportNextDraw android.view.ViewRootImpl.handleResized:2995 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$W.resized:14200 android.app.servertransaction.WindowStateResizeItem.execute:81 android.app.servertransaction.WindowStateTransactionItem.execute:62 
+08-21 21:59:54.195 D/VRI[MainActivity]@a3dd74c(31702): Setup new sync=wmsSync-VRI[MainActivity]@a3dd74c#28
+08-21 21:59:54.196 I/VRI[MainActivity]@a3dd74c(31702): Creating new active sync group VRI[MainActivity]@a3dd74c#29
+08-21 21:59:54.196 D/VRI[MainActivity]@a3dd74c(31702): registerCallbacksForSync syncBuffer=false
+08-21 21:59:54.197 D/VRI[MainActivity]@a3dd74c(31702): Received frameDrawingCallback syncResult=0 frameNum=3.
+08-21 21:59:54.197 I/VRI[MainActivity]@a3dd74c(31702): Setting up sync and frameCommitCallback
+08-21 21:59:54.197 I/VRI[MainActivity]@a3dd74c(31702): Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=false
+08-21 21:59:54.197 I/BLASTBufferQueue_Java(31702): gatherPendingTransactions, mName= VRI[MainActivity]@a3dd74c mNativeObject= 0xb4000073ca0d8570 frameNumber= 3 caller= android.view.ViewRootImpl$12.lambda$onFrameDraw$3:15645 android.view.ViewRootImpl$12.$r8$lambda$CTo3ExVBk8akdVTGlqHPAoYLRVI:0 android.view.ViewRootImpl$12$$ExternalSyntheticLambda1.onFrameCommit:0 android.view.ThreadedRenderer$1.lambda$onFrameDraw$0:763 android.view.ThreadedRenderer$1$$ExternalSyntheticLambda0.onFrameCommit:0 <bottom of call stack> 
+08-21 21:59:54.198 D/VRI[MainActivity]@a3dd74c(31702): reportDrawFinished seqId=0
+08-21 21:59:54.223 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:54.224 D/VRI[MainActivity]@a3dd74c(31702): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a0d97f0}
+08-21 21:59:54.230 D/InputMethodManagerUtils(31702): startInputInner - Id : 0
+08-21 21:59:54.230 I/InputMethodManager(31702): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 21:59:54.242 D/InputTransport(31702): Input channel constructed: 'ClientS', fd=165
+08-21 21:59:54.295 D/InsetsController(31702): hide(ime())
+08-21 21:59:54.295 I/ImeTracker(31702): sk.frodo21.reader:da774294: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 21:59:54.314 I/InsetsController(31702): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mAttachedInsets=null mVisible=false mFlags=INVALID mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 21:59:56.744 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 21:59:56.752 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 21:59:56.791 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.798 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.807 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.816 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.823 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.831 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.839 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.846 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.855 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.864 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.872 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.880 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.881 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 21:59:56.890 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.896 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.904 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.912 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.920 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.930 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.937 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.946 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.955 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.962 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.971 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.980 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.989 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:56.996 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.004 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.013 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.022 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.030 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.037 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.047 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.056 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.064 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.070 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.080 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.088 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.097 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.104 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.113 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.121 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.131 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.138 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.146 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.155 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.163 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.172 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.179 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.188 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.196 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.265 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 21:59:57.315 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.323 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.331 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.339 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.348 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.354 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.357 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 21:59:57.363 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.372 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.380 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.388 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.397 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.405 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.413 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.421 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.429 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.437 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.447 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.455 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.464 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.471 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.480 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.488 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.497 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.507 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.513 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.522 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.530 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.538 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.547 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.555 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.564 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.572 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.580 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.588 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.596 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.604 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.613 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.621 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.630 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.637 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.646 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.655 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.663 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.671 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.679 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.688 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.771 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.779 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.788 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.797 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.805 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.813 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.821 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.829 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.837 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.847 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.855 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.863 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.872 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.880 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.888 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.897 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.906 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.914 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.922 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.930 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.939 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.943 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 21:59:57.959 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.965 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.973 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.980 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.989 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:57.998 I/View    (31702): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{347e3b7 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 21:59:58.000 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 21:59:58.016 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c053a50
+08-21 21:59:59.128 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 21:59:59.168 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 21:59:59.195 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@116f0dd
+08-21 21:59:59.565 I/Briefly (31702): 08-21 21:59:59.563 [katalóg] stiahnutých 2 modelov
+08-21 22:00:00.512 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:00:00.577 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:00:00.598 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c053a50
+08-21 22:00:03.579 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:00:09.023 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:00:09.028 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:00:09.205 I/ImeFocusController(31702): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:00:09.205 I/ImeFocusController(31702): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:00:10.052 I/VRI[MainActivity]@a3dd74c(31702): handleAppVisibility mAppVisible = true visible = false
+08-21 22:00:10.053 D/VRI[MainActivity]@a3dd74c(31702): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:00:10.060 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 22:00:10.081 I/VRI[MainActivity]@a3dd74c(31702): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=14 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:00:10.082 D/VRI[MainActivity]@a3dd74c(31702): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:00:10.083 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 22:00:10.084 I/VRI[MainActivity]@a3dd74c(31702): stopped(true) old = false
+08-21 22:00:10.084 D/VRI[MainActivity]@a3dd74c(31702): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:00:10.085 D/HWUI    (31702): CacheManager::trimMemory(20)
+08-21 22:00:10.095 D/InputTransport(31702): Input channel destroyed: 'ClientS', fd=165
+08-21 22:00:10.121 I/VRI[MainActivity]@a3dd74c(31702): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=25 res=0x2 s={false 0x0} ch=false seqId=0
+08-21 22:00:10.177 D/BBA2    (31702): setIsFg isFg = false; delayValue 3999ms
+08-21 22:00:14.246 I/Briefly (31702): 08-21 22:00:14.245 [gemma] zhrnutie za 160102 ms, vstup 1723 znakov
+08-21 22:00:14.249 I/Briefly (31702): 08-21 22:00:14.248 [gemma] odpoveď: 1.  Šéf Volkswagenu hovorí o kritickej situácii vo vnútri automobilky.\n2.  Situácia vo Volkswagene je veľmi napätá.\n3.  Tí sa obávajú rozsiahleho rušenia  40-tisíc zamestnancov.\n4.  Informaovala o tom agentúra DPA.\n5.  Spoločnosť je stále schopná konať.\n6.  ale je však potrebné urobiť tak čo najskôr.\n7.  Povedal, že prevádzková návratnosť automobilky, ktorá dosahuje  3,8 percenta.\n8.  "Príliš nízka na  40.000  zamestnancov na  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  40
+08-21 22:00:14.274 I/Briefly (31702): 08-21 22:00:14.273 [gemma] po spracovaní 4 odrážok
+08-21 22:01:03.109 D/Choreographer(31702): BBA2 receive callback when in bg : 4
+08-21 22:01:03.117 D/HWUI    (31702): CacheManager::trimMemory(40)
+08-21 22:01:03.571 I/VRI[MainActivity]@a3dd74c(31702): handleAppVisibility mAppVisible = false visible = true
+08-21 22:01:03.581 I/VRI[MainActivity]@a3dd74c(31702): stopped(false) old = true
+08-21 22:01:03.581 D/VRI[MainActivity]@a3dd74c(31702): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:01:03.583 V/XGL     (31702): ----------------------------------------------------------------------
+08-21 22:01:03.583 V/XGL     (31702): SUMD version compiled date     = 2026-01-09 09:57 - KST
+08-21 22:01:03.583 V/XGL     (31702): SUMD version revision number   = 1900168dcb
+08-21 22:01:03.583 V/XGL     (31702): SUMD version info              = Driver version: 24.0.534, git hash: 1900168dcb
+08-21 22:01:03.583 V/XGL     (31702): ----------------------------------------------------------------------
+08-21 22:01:03.583 V/XGL     (31702): Entering: Create
+08-21 22:01:03.606 V/XGL     (31702): Exiting: Create
+08-21 22:01:03.637 W/libc    (31702): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:01:03.638 I/BLASTBufferQueue_Java(31702): new BLASTBufferQueue, mName= VRI[MainActivity]@a3dd74c mNativeObject= 0xb4000073ca0d8570 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:01:03.638 I/BLASTBufferQueue_Java(31702): update, w= 1440 h= 3120 mName = VRI[MainActivity]@a3dd74c mNativeObject= 0xb4000073ca0d8570 sc.mNativeObject= 0xb40000741a0c5690 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:01:03.639 W/libc    (31702): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:01:03.639 I/VRI[MainActivity]@a3dd74c(31702): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=48 res=0x3 s={true 0xb40000723a0c15b0} ch=true seqId=0
+08-21 22:01:03.640 D/VRI[MainActivity]@a3dd74c(31702): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a0c15b0} hwInitialized=true
+08-21 22:01:03.641 D/VRI[MainActivity]@a3dd74c(31702): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:01:03.641 D/VRI[MainActivity]@a3dd74c(31702): Setup new sync=wmsSync-VRI[MainActivity]@a3dd74c#30
+08-21 22:01:03.641 I/VRI[MainActivity]@a3dd74c(31702): Creating new active sync group VRI[MainActivity]@a3dd74c#31
+08-21 22:01:03.641 D/VRI[MainActivity]@a3dd74c(31702): Start draw after previous draw not visible
+08-21 22:01:03.641 D/VRI[MainActivity]@a3dd74c(31702): registerCallbacksForSync syncBuffer=false
+08-21 22:01:03.648 D/VRI[MainActivity]@a3dd74c(31702): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:01:03.648 I/VRI[MainActivity]@a3dd74c(31702): mWNT: t=0xb40000726a0fdc90 mBlastBufferQueue=0xb4000073ca0d8570 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:01:03.648 I/VRI[MainActivity]@a3dd74c(31702): Setting up sync and frameCommitCallback
+08-21 22:01:03.668 I/BLASTBufferQueue(31702): [VRI[MainActivity]@a3dd74c#12](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:01:03.668 I/VRI[MainActivity]@a3dd74c(31702): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:01:03.669 D/VRI[MainActivity]@a3dd74c(31702): reportDrawFinished seqId=0
+08-21 22:01:03.674 I/InsetsSourceConsumer(31702): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:01:03.674 I/InsetsSourceConsumer(31702): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:01:03.684 D/VRI[MainActivity]@a3dd74c(31702): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a0c15b0}
+08-21 22:01:03.684 D/InputMethodManagerUtils(31702): startInputInner - Id : 0
+08-21 22:01:03.684 I/InputMethodManager(31702): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:01:03.688 D/InsetsController(31702): hide(ime())
+08-21 22:01:03.688 I/ImeTracker(31702): sk.frodo21.reader:82a941b8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:01:03.692 D/InputTransport(31702): Input channel constructed: 'ClientS', fd=143
+08-21 22:01:04.515 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:04.521 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:04.663 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:04.736 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:04.737 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:04.803 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:04.804 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:05.087 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:05.088 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:05.231 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:05.233 I/Kumiho-Kumiho(31702): getPackageName: sk.frodo21.reader
+08-21 22:01:05.237 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:05.325 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:06.755 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:06.922 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:09.925 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:11.064 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:11.070 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:11.129 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:11.917 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:11.969 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:11.996 D/WindowOnBackDispatcher(31702): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@116f0dd
+08-21 22:01:12.158 I/Briefly (31702): 08-21 22:01:12.158 [katalóg] stiahnutých 2 modelov
+08-21 22:01:13.765 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:13.914 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:14.062 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:14.690 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:17.695 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:18.408 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:18.418 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:18.501 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:18.890 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:18.977 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:19.402 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:19.486 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:19.874 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:19.953 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:20.940 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:21.012 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:21.408 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:21.488 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:22.314 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:22.413 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:24.036 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:24.432 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:27.438 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:27.827 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:27.834 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:27.885 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:29.687 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:29.754 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:31.040 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:31.121 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:31.880 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:31.972 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:32.627 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:33.617 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:35.916 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:36.626 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:36.632 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:36.694 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:37.242 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:37.595 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:38.809 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:40.490 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:41.438 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:41.642 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:42.281 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:43.185 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:43.304 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:43.767 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:44.405 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:44.512 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:44.597 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:46.746 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
+08-21 22:01:49.753 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:50.378 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 0
+08-21 22:01:50.386 I/VRI[MainActivity]@a3dd74c(31702): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@a3dd74c
+08-21 22:01:50.450 I/VRI[MainActivity]@a3dd74c(31702): ViewPostIme pointer 1
