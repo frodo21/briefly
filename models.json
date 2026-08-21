@@ -19,6 +19,7 @@
     "maxTokens": 2048,
     "inputChars": 3500,
     "minRamMb": 7000,
-    "note": "Päťkrát väčší, slovenčinu by mal zvládať výrazne lepšie. Potrebuje 8 GB RAM a asi 6 GB voľnej pamäte pri behu."
+    "note": "Päťkrát väčší, slovenčinu by mal zvládať výrazne lepšie. Potrebuje 8 GB RAM a asi 6 GB voľnej pamäte pri behu.",
+    "sha256": "a7f544cfee68f579fabadb22aa9284faa4020a0f5358d0e15b49fdd4cefe4200"
   }
 ]
