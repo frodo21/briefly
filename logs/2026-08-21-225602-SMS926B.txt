@@ -1,0 +1,638 @@
+=== Briefly ===
+verzia:      0.1.47 (47)
+zariadenie:  samsung SM-S926B
+android:     16 (API 36)
+abi:         arm64-v8a
+RAM:         11203 MB celkom, 3175 MB voľných
+
+=== denník aplikácie ===
+08-21 12:41:47.635 [app] štart, verzia 0.1.28
+08-21 13:28:25.807 [app] štart, verzia 0.1.29
+08-21 13:29:35.065 [model] stiahnutý, 528 MB
+08-21 13:30:12.470 [gemma] model načítaný na GPU za 7545 ms
+08-21 13:30:16.868 [gemma] zhrnutie za 1490 ms, vstup 2600 znakov
+08-21 13:30:16.869 [gemma] odpoveď: 
+08-21 13:30:16.872 [gemma] po spracovaní 0 odrážok
+08-21 13:30:16.877 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 13:31:25.929 [model] stiahnutý, 528 MB
+08-21 13:34:01.005 [gemma] model načítaný na GPU za 2377 ms
+08-21 13:34:04.572 [gemma] zhrnutie za 3542 ms, vstup 832 znakov
+08-21 13:34:04.575 [gemma] odpoveď: *   Vlajkom je **dva hviezdičky** preverzené pri  **10%**. ⏎ *   Vlastný  **dva hviezdičky**  dôležia  **62 miliónov eur**. ⏎ *   4  **dva hviezdičky**  dôležia  **54 miliónov eur.**
+08-21 13:34:04.584 [gemma] po spracovaní 3 odrážok
+08-21 14:04:34.555 [update] stiahnuté 71 MB
+08-21 14:04:56.616 [update] stiahnuté 71 MB
+08-21 14:05:18.504 [app] štart, verzia 0.1.31
+08-21 14:06:07.742 [gemma] model načítaný na GPU za 3306 ms
+08-21 14:06:54.197 [gemma] zhrnutie za 2571 ms, vstup 1531 znakov
+08-21 14:06:54.198 [gemma] odpoveď: 1.  Zادرil sa na  dôležitší údaj dvoma hviezdičkami, napríklad **desať percent**. ⏎ 
+08-21 14:06:54.199 [gemma] po spracovaní 1 odrážok
+08-21 14:06:54.200 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 14:07:45.047 [gemma] zhrnutie za 38428 ms, vstup 203 znakov
+08-21 14:07:45.050 [gemma] odpoveď: *   Rozpočet schválený ⏎ *   Nezapláti  250 miliónov eur viac na  **desať percent**  z  400 miliónov  €. ⏎ *   Opozícia  názor  dovládne  dôležitý  **desať percent**  v  **ne  pôstujúci  peniažný  dla  dostupnosti  dovladených  dôležitých  dostupných  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  dovladených  d
+08-21 14:07:45.061 [gemma] po spracovaní 3 odrážok
+08-21 14:09:00.875 [logy] odoslané ako 2026-08-21-140859-SMS926B.txt
+08-21 14:09:18.739 [gemma] zhrnutie za 1711 ms, vstup 2600 znakov
+08-21 14:09:18.739 [gemma] odpoveď: 
+08-21 14:09:18.740 [gemma] po spracovaní 0 odrážok
+08-21 14:09:18.740 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 14:10:37.703 [model] stiahnutý, 528 MB
+08-21 14:14:05.492 [model] stiahnutý, 528 MB
+08-21 14:30:52.741 [update] stiahnuté 71 MB
+08-21 14:32:48.102 [app] štart, verzia 0.1.32
+08-21 14:32:48.537 [update] zmazaný balík briefly-32.apk
+08-21 14:33:36.349 [gemma] model načítaný na GPU za 3121 ms
+08-21 14:33:38.568 [gemma] zhrnutie za 2219 ms, vstup 203 znakov
+08-21 14:33:38.569 [gemma] odpoveď: *   Vláda schválila nový rozpočet ⏎ *   Rozpočet je schválený na zdravotníctvo ⏎ *   Rozpočet by mal preletiť od januára ⏎ 
+08-21 14:33:38.571 [gemma] po spracovaní 3 odrážok
+08-21 14:36:21.693 [gemma] zhrnutie za 24191 ms, vstup 1440 znakov
+08-21 14:36:21.694 [gemma] odpoveď: 1 min. čítania Správy dnes na  21. aug.  2026 o 12:40\nNezávisle,  4 min. čítania  Zdroj: istock Podobne silná bola najrozšírenejšia digitálna mena v máji.\nNezávisle,  4 min. čítania  Digitálna mena bitcoin sa v piatok prudko posilnila v rámci optimizmu v súvislosti s americkou legislatívou o kryptomenách.\nNezávisle,  4 min. čítania  Tasr o tom informuje na základe správy agentúry AFP.\nNezávisle,  4 min. čítanie  Vyše  77-tisíc Bitcoin  (6649768 EUR)  sa  stúpol  o  6,9 % na  77  675,94 USD.\nNezávisle,  4 min. čítanie  Oproti   svojej  stredajšej  hodnote (19.8)  8  8  8  8  8  8  8  8  8 
+08-21 14:36:21.705 [gemma] po spracovaní 4 odrážok
+08-21 14:40:23.682 [gemma] zhrnutie za 2783 ms, vstup 2600 znakov
+08-21 14:40:23.685 [gemma] odpoveď: Zhrňte článok do troch odrážok v jazyku článku. Počína sa odrážka z '-'. Použite len informácie z textu.\n ⏎ 
+08-21 14:40:23.688 [gemma] po spracovaní 2 odrážok
+08-21 15:27:20.931 [model] CHYBA zdroj zlyhal: https://github.com/frodo21/briefly/releases/download/model/gemma3-1b-it-int4.task :: SocketException: Software caused connection abort
+java.net.SocketException: Software caused connection abort
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)
+	at java.net.SocketInputStream.read(SocketInputStream.java:173)
+	at java.net.SocketInputStream.read(SocketInputStream.java:143)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:1015)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:979)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:894)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:867)
+	at okio.InputStreamSource.read(JvmOkio.kt:93)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:153)
+	at okio.RealBufferedSource.request(RealBufferedSource.kt:210)
+08-21 15:27:20.983 [model] CHYBA zdroj zlyhal: https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/Gemma3-1B-IT_multi-prefill-seq_q4_ekv2048.task?download=true :: UnknownHostException: Unable to resolve host "huggingface.co": No address associated with hostname
+java.net.UnknownHostException: Unable to resolve host "huggingface.co": No address associated with hostname
+	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+	at okhttp3.Dns$Companion$DnsSystem.lookup(Dns.kt:49)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.kt:169)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.kt:131)
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.kt:73)
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:205)
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
+08-21 15:29:31.026 [model] stiahnutý, 528 MB
+08-21 16:28:32.656 [update] stiahnuté 71 MB
+08-21 16:28:53.715 [app] štart, verzia 0.1.36
+08-21 16:28:54.130 [update] zmazaný balík briefly-36.apk
+08-21 16:29:31.911 [gemma] gemma3-1b načítaný na GPU za 3012 ms
+08-21 16:30:10.905 [katalóg] stiahnutých 2 modelov
+08-21 16:30:10.997 [gemma] zhrnutie za 4915 ms, vstup 2600 znakov
+08-21 16:30:10.999 [gemma] odpoveď: Dôležte na tieto odrážky, aby som sa s nekom presedelkom aspoň trochu so zamyslením, je zistil, že štát by sa zmenil, ⏎ *  4 % z vymeriavacieho základu.   ⏎ *  Druhý dôchodkový pilier  má jednu zásadnú výhodu - ⏎ *  Práve dlhý horizont môže aj z relatívne malých ⏎ 
+08-21 16:30:11.008 [gemma] po spracovaní 3 odrážok
+08-21 16:36:35.163 [model] CHYBA sťahovanie gemma3n-e2b zlyhalo :: SocketException: Software caused connection abort
+java.net.SocketException: Software caused connection abort
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)
+	at java.net.SocketInputStream.read(SocketInputStream.java:173)
+	at java.net.SocketInputStream.read(SocketInputStream.java:143)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:1015)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:979)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:894)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:867)
+	at okio.InputStreamSource.read(JvmOkio.kt:93)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:153)
+	at okio.RealBufferedSource.request(RealBufferedSource.kt:210)
+08-21 16:39:03.387 [model] kontrolný súčet gemma3n-e2b sedí
+08-21 16:39:03.388 [model] gemma3n-e2b stiahnutý, 2990 MB
+08-21 16:42:30.534 [gemma] gemma3n-e2b načítaný na GPU za 24700 ms
+08-21 16:43:09.351 [gemma] zhrnutie za 38813 ms, vstup 3500 znakov
+08-21 16:43:09.353 [gemma] odpoveď: - Druhotný dôchodkový pilier Slovenskej republiky umožňuje sporiteľom investovať časť odvodov z mzdy na vlastný účet a budovať finančný kapitál na dôchodok cez dlhodobé zložené úročenie. Aktuálne je odvod vo výške 4 % hrubej mzdy, čo predstavuje mesačne 80 eur pri mzde 2 000 eur. ⏎ - Štát počas posledných rokov upravoval pravidlá príspevkov do druhého piliera, pričom niektoré rozhodnutia mohli sporiteľov pripraviť o potenciálne výnosy, napríklad presun do konzervatívnych dlhopisových fondov pred výrazným rastom akciových trhov. ⏎ - Rozdiel medzi prvým a druhým pilierom spočíva v tom, že prvý pilie
+08-21 16:43:09.356 [gemma] po spracovaní 3 odrážok
+08-21 16:53:46.167 [gemma] zhrnutie za 27628 ms, vstup 1781 znakov
+08-21 16:53:46.172 [gemma] odpoveď: - Kúpanie v tatranských plesách a horských potokoch je neporiadkom, ktorý predstavuje ohľad ohľadným chemického znečistenia a ničenia ekosystémov. ⏎ - Túravisti často porušujú zákony tým, že sa kúpia v chránených tatranských plesách a horských jazierach počas dlhej sezóny, čo vedie k narastu systému neporiadku. ⏎ - Napriek sprísneniu kontrol zo strany TANAPu zostáva kúpanie v tatranských plesách dlhodobý problém vyplývajúci z rostúcich teplôt a prioritných chutí turistov nad ochranou prírody. ⏎ 
+08-21 16:53:46.175 [gemma] po spracovaní 3 odrážok
+08-21 17:15:46.740 [app] štart, verzia 0.1.36
+08-21 17:16:14.224 [gemma] gemma3-1b načítaný na GPU za 2765 ms
+08-21 17:16:58.577 [gemma] zhrnutie za 17349 ms, vstup 2600 znakov
+08-21 17:16:58.580 [gemma] odpoveď: Dobrý deň.\nRozumiem, ⏎ Zistil som, že v novom prinípke Gemini, Google permitoval,  odstrániť vodoznak, ktorý je pri Inštitúcii Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie Inštitúcie I
+08-21 17:16:58.601 [gemma] po spracovaní 0 odrážok
+08-21 17:16:58.603 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 17:17:36.789 [katalóg] stiahnutých 2 modelov
+08-21 17:17:56.819 [katalóg] stiahnutých 2 modelov
+08-21 17:18:19.894 [update] stiahnuté 71 MB
+08-21 17:18:40.773 [app] štart, verzia 0.1.38
+08-21 17:18:41.109 [update] zmazaný balík briefly-38.apk
+08-21 17:19:18.035 [katalóg] stiahnutých 2 modelov
+08-21 17:19:38.691 [gemma] gemma3n-e2b načítaný na GPU za 7274 ms
+08-21 17:21:42.794 [gemma] zhrnutie za 93612 ms, vstup 2104 znakov
+08-21 17:21:42.798 [gemma] odpoveď: - Koalícia ochotných pripravuje zasadnutie pri príležitosti Dňa nezávislosti Ukrajiny v Kyjeve dvadsiatehoštvrtého augusta, kde budú lídri potvrádzať ďalšiu politickú a vojenskú podporu Ukrajyne. ⏎ - Macron a ďalší lídri koalície ochotných budú pôsobiť ako majstravia zasadnutia a budú viesť stretnutie s účasti desiatok lídrov vrátane Alexandra Stubba a Antonia Costu. ⏎ - Koalícia ochotných vznikla na základe bezpečnostných záruk pre Ukrajinu a účelom jej aktivity je budovať spoločnú európsku protivzdušnú obranu proti balistickým raketám. ⏎ 
+08-21 17:21:42.803 [gemma] po spracovaní 3 odrážok
+08-21 17:32:20.315 [app] štart, verzia 0.1.38
+08-21 17:32:25.795 [gemma] gemma3-1b načítaný na GPU za 3450 ms
+08-21 20:03:44.659 [app] štart, verzia 0.1.38
+08-21 21:05:28.606 [katalóg] stiahnutých 2 modelov
+08-21 21:06:35.164 [gemma] gemma3-1b načítaný na GPU za 2931 ms
+08-21 21:06:37.324 [gemma] zhrnutie za 2158 ms, vstup 203 znakov
+08-21 21:06:37.325 [gemma] odpoveď: *   Vláda schválila nový rozpočet ⏎ *   Rozpočet je schválený na zdravotníctvo ⏎ *   Rozpočet by mal preletiť od januára ⏎ 
+08-21 21:06:37.327 [gemma] po spracovaní 3 odrážok
+08-21 21:09:41.009 [gemma] zhrnutie za 1553 ms, vstup 2412 znakov
+08-21 21:09:41.011 [gemma] odpoveď: 
+08-21 21:09:41.012 [gemma] po spracovaní 0 odrážok
+08-21 21:09:41.014 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:09:46.299 [katalóg] stiahnutých 2 modelov
+08-21 21:10:01.742 [logy] odoslané ako 2026-08-21-210959-SMS926B.txt
+08-21 21:10:10.484 [gemma] zhrnutie za 1497 ms, vstup 2600 znakov
+08-21 21:10:10.484 [gemma] odpoveď: 
+08-21 21:10:10.485 [gemma] po spracovaní 0 odrážok
+08-21 21:10:10.485 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:11:44.091 [katalóg] stiahnutých 2 modelov
+08-21 21:11:48.799 [logy] odoslané ako 2026-08-21-211147-SMS926B.txt
+08-21 21:40:56.506 [katalóg] stiahnutých 2 modelov
+08-21 21:41:04.769 [logy] odoslané ako 2026-08-21-214103-SMS926B.txt
+08-21 21:41:10.640 [update] stiahnuté 71 MB
+08-21 21:41:38.333 [update] balík už je stiahnutý, preskakujem
+08-21 21:41:55.130 [update] balík už je stiahnutý, preskakujem
+08-21 21:42:00.182 [app] štart, verzia 0.1.45
+08-21 21:42:00.581 [update] zmazaný balík briefly-45.apk
+08-21 21:42:13.058 [app] štart, verzia 0.1.45
+08-21 21:43:31.460 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:43:34.175 [gemma] gemma3-1b načítaný na GPU za 2691 ms
+08-21 21:44:06.074 [gemma] zhrnutie za 31898 ms, vstup 895 znakov
+08-21 21:44:06.076 [gemma] odpoveď: 1)  Inštatný rast ceny ropy je spôсобnený  Záhlom  Tradičné  zamerané  základ  dla  Inštatnej  výskum  dla  v  dostupnosti  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  000  4  0
+08-21 21:44:06.081 [gemma] po spracovaní 1 odrážok
+08-21 21:44:06.082 [zhrnutie] model nedal použiteľný výsledok, idem extraktívne
+08-21 21:47:03.917 [katalóg] stiahnutých 2 modelov
+08-21 21:47:42.742 [katalóg] stiahnutých 2 modelov
+08-21 21:47:47.962 [katalóg] stiahnutých 2 modelov
+08-21 21:47:51.009 [katalóg] stiahnutých 2 modelov
+08-21 21:48:47.430 [katalóg] stiahnutých 2 modelov
+08-21 21:49:07.330 [katalóg] stiahnutých 2 modelov
+08-21 21:50:38.578 [katalóg] stiahnutých 2 modelov
+08-21 21:50:40.183 [katalóg] stiahnutých 2 modelov
+08-21 21:50:41.594 [katalóg] stiahnutých 2 modelov
+08-21 21:57:34.096 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 21:59:59.563 [katalóg] stiahnutých 2 modelov
+08-21 22:00:14.245 [gemma] zhrnutie za 160102 ms, vstup 1723 znakov
+08-21 22:00:14.248 [gemma] odpoveď: 1.  Šéf Volkswagenu hovorí o kritickej situácii vo vnútri automobilky.\n2.  Situácia vo Volkswagene je veľmi napätá.\n3.  Tí sa obávajú rozsiahleho rušenia  40-tisíc zamestnancov.\n4.  Informaovala o tom agentúra DPA.\n5.  Spoločnosť je stále schopná konať.\n6.  ale je však potrebné urobiť tak čo najskôr.\n7.  Povedal, že prevádzková návratnosť automobilky, ktorá dosahuje  3,8 percenta.\n8.  "Príliš nízka na  40.000  zamestnancov na  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  400  40
+08-21 22:00:14.273 [gemma] po spracovaní 4 odrážok
+08-21 22:01:12.158 [katalóg] stiahnutých 2 modelov
+08-21 22:01:52.854 [logy] odoslané ako 2026-08-21-220150-SMS926B.txt
+08-21 22:08:46.472 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+08-21 22:08:55.405 [gemma] zhrnutie za 8903 ms, vstup 2600 znakov
+08-21 22:08:55.405 [gemma] odpoveď: Here's my breakdown: ⏎  ⏎ *   **Joshua's Background:** This passage immediately establishes Joshua as an enthusiast who values creativity and communication within gaming communities. His past life outside gaming focuses on family and hobbies like wrestling and farm management gives context for his ranting style. ⏎ *   **Leaks:** The passage highlights the rapid spread of gameplay leaks regarding GTA 6's development, starting with earlier leaks about the Vice City map. This creates an exciting context for an official response. ⏎ *   **Legal Action:** Take-Two Interactive has filed subpoenas against Mic
+08-21 22:08:55.411 [gemma] po spracovaní 4 odrážok
+08-21 22:09:36.020 [katalóg] stiahnutých 2 modelov
+08-21 22:46:10.918 [katalóg] stiahnutých 2 modelov
+08-21 22:46:33.928 [logy] odoslané ako 2026-08-21-224632-SMS926B.txt
+08-21 22:46:38.887 [update] stiahnuté 19 MB
+08-21 22:46:48.373 [update] balík už je stiahnutý, preskakujem
+08-21 22:47:03.074 [app] štart, verzia 0.1.47
+08-21 22:47:03.486 [update] zmazaný balík briefly-47.apk
+08-21 22:49:40.943 [zhrnutie] CHYBA online zlyhalo (GEMINI) :: SocketTimeoutException: timeout
+java.net.SocketTimeoutException: timeout
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:675)
+	at okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:684)
+	at okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+	at okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:97)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
+
+
+=== logcat ===
+08-21 22:52:12.241 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : linkToDeath
+08-21 22:52:12.748 I/PlayCore(13441): UID: [10606]  PID: [13441] OnWarmUpIntegrityTokenCallback : onWarmUpExpressIntegrityToken
+08-21 22:52:12.748 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : Unbind from service.
+08-21 22:52:12.753 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : requestExpressIntegrityToken(4444316632045975113)
+08-21 22:52:12.753 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : Initiate binding to the service.
+08-21 22:52:12.769 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.expressintegrityservice.ExpressIntegrityService})
+08-21 22:52:12.770 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : linkToDeath
+08-21 22:52:12.780 I/PlayCore(13441): UID: [10606]  PID: [13441] OnRequestIntegrityTokenCallback : onRequestExpressIntegrityToken
+08-21 22:52:12.780 I/PlayCore(13441): UID: [10606]  PID: [13441] StandardIntegrity : Unbind from service.
+08-21 22:52:13.952 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:52:14.273 I/libbinder.BpBinder(13441): onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+08-21 22:52:14.283 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:14.284 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:52:14.382 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:14.405 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:14.433 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:14.440 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:14.607 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:14.828 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:15.188 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:15.587 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:18.590 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:52:23.053 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:23.058 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:52:23.144 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:23.159 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{a491833 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:23.270 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:23.276 D/WindowOnBackDispatcher(13441): onBackInvoked, callback=androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:23.292 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:52:23.935 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:24.663 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:26.320 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:26.432 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:26.445 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:26.473 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:26.498 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:26.528 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:26.689 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:28.956 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:29.025 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:29.086 I/ImeFocusController(13441): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:52:29.086 I/ImeFocusController(13441): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:52:29.204 D/InputTransport(13441): Input channel destroyed: 'ClientS', fd=150
+08-21 22:52:29.511 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = true visible = false
+08-21 22:52:29.511 D/VRI[MainActivity]@5c05976(13441): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:52:29.519 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:52:29.551 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=22 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:52:29.552 D/VRI[MainActivity]@5c05976(13441): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:52:29.553 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:52:29.556 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:52:29.557 I/VRI[MainActivity]@5c05976(13441): stopped(true) old = false
+08-21 22:52:29.557 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:52:29.557 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:52:29.575 D/BBA2    (13441): setIsFg isFg = false; delayValue 3999ms
+08-21 22:52:43.685 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = false visible = true
+08-21 22:52:43.689 I/VRI[MainActivity]@5c05976(13441): stopped(false) old = true
+08-21 22:52:43.689 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:52:43.692 D/ViewRootImpl(13441): Skipping stats log for color mode
+08-21 22:52:43.692 D/BBA2    (13441): setIsFg isFg = true
+08-21 22:52:43.694 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:43.715 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:52:43.716 I/BLASTBufferQueue_Java(13441): new BLASTBufferQueue, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca119980 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:52:43.716 I/BLASTBufferQueue_Java(13441): update, w= 1440 h= 3120 mName = VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca119980 sc.mNativeObject= 0xb40000741a0b71d0 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:52:43.717 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:52:43.718 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=13 res=0x3 s={true 0xb40000723a09ff60} ch=true seqId=0
+08-21 22:52:43.720 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a09ff60} hwInitialized=true
+08-21 22:52:43.722 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:52:43.723 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#12
+08-21 22:52:43.723 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#13
+08-21 22:52:43.724 D/VRI[MainActivity]@5c05976(13441): Start draw after previous draw not visible
+08-21 22:52:43.725 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:52:43.735 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.737 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:52:43.737 I/VRI[MainActivity]@5c05976(13441): mWNT: t=0xb40000726a0c84f0 mBlastBufferQueue=0xb4000073ca119980 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:52:43.737 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:52:43.764 I/BLASTBufferQueue(13441): [VRI[MainActivity]@5c05976#6](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:52:43.765 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:52:43.765 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:52:43.768 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.771 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.779 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.788 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.796 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.806 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:43.909 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:52:43.909 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:52:43.923 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a09ff60}
+08-21 22:52:43.935 D/InputMethodManagerUtils(13441): startInputInner - Id : 0
+08-21 22:52:43.935 I/InputMethodManager(13441): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:52:43.946 D/InsetsController(13441): hide(ime())
+08-21 22:52:43.946 I/ImeTracker(13441): sk.frodo21.reader:8584c13a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:52:43.947 D/InputTransport(13441): Input channel constructed: 'ClientS', fd=441
+08-21 22:52:44.954 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:44.960 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:52:45.076 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:45.279 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:45.428 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:45.831 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:45.948 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:45.961 I/View    (13441): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{1658ef4 VFEDHVC.. ........ 0,0-1440,2716}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-21 22:52:46.151 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:46.159 D/WindowOnBackDispatcher(13441): onBackInvoked, callback=androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:46.175 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:52:46.924 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:47.039 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:47.156 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:47.345 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:48.811 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:48.871 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:49.626 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:49.697 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:50.772 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:50.831 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:50.861 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:51.941 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:52.023 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:52.047 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:52:52.047 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:53.584 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:53.616 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:53.637 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:52:53.637 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:52:56.619 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:52:57.230 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:57.237 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:52:57.277 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:52:59.646 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:52:59.782 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:02.787 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:53:03.313 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:03.322 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:03.401 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:06.405 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:53:10.348 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:10.355 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:10.434 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:10.453 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:53:10.453 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:53:12.624 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:13.055 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:13.535 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:13.853 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:14.291 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:14.523 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:14.935 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:15.021 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:15.468 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:15.856 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:16.605 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:16.657 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:16.684 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:53:18.239 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:18.368 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:21.370 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:53:25.086 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:25.089 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:25.233 I/ImeFocusController(13441): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:25.233 I/ImeFocusController(13441): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:25.831 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = true visible = false
+08-21 22:53:25.831 D/VRI[MainActivity]@5c05976(13441): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:53:25.840 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:25.858 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=9 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:53:25.858 D/VRI[MainActivity]@5c05976(13441): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:53:25.859 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:25.862 I/VRI[MainActivity]@5c05976(13441): stopped(true) old = false
+08-21 22:53:25.862 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:53:25.862 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:25.877 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=8 res=0x2 s={false 0x0} ch=false seqId=0
+08-21 22:53:25.879 D/InputTransport(13441): Input channel destroyed: 'ClientS', fd=441
+08-21 22:53:25.905 D/HWUI    (13441): CacheManager::trimMemory(40)
+08-21 22:53:25.908 D/BBA2    (13441): setIsFg isFg = false; delayValue 3999ms
+08-21 22:53:36.178 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = false visible = true
+08-21 22:53:36.184 I/VRI[MainActivity]@5c05976(13441): stopped(false) old = true
+08-21 22:53:36.184 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:53:36.185 D/BBA2    (13441): setIsFg isFg = true
+08-21 22:53:36.208 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:53:36.209 I/BLASTBufferQueue_Java(13441): new BLASTBufferQueue, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca15bda0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:53:36.209 I/BLASTBufferQueue_Java(13441): update, w= 1440 h= 3120 mName = VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca15bda0 sc.mNativeObject= 0xb40000741a0cd610 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:53:36.209 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:53:36.210 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=12 res=0x3 s={true 0xb40000723a0a32e0} ch=true seqId=0
+08-21 22:53:36.211 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a0a32e0} hwInitialized=true
+08-21 22:53:36.212 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:53:36.212 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#14
+08-21 22:53:36.212 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#15
+08-21 22:53:36.213 D/VRI[MainActivity]@5c05976(13441): Start draw after previous draw not visible
+08-21 22:53:36.215 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:53:36.233 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:53:36.233 I/VRI[MainActivity]@5c05976(13441): mWNT: t=0xb40000726a113770 mBlastBufferQueue=0xb4000073ca15bda0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:53:36.233 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:53:36.247 I/BLASTBufferQueue(13441): [VRI[MainActivity]@5c05976#7](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:53:36.249 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:53:36.250 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:53:36.251 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:53:36.251 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:53:36.272 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a0a32e0}
+08-21 22:53:36.273 D/InputMethodManagerUtils(13441): startInputInner - Id : 0
+08-21 22:53:36.273 I/InputMethodManager(13441): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:53:36.277 D/InsetsController(13441): hide(ime())
+08-21 22:53:36.278 I/ImeTracker(13441): sk.frodo21.reader:1f2bf35f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:53:36.282 D/InputTransport(13441): Input channel constructed: 'ClientS', fd=145
+08-21 22:53:37.020 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:37.028 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:37.134 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:40.138 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@5c05976
+08-21 22:53:41.256 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:41.261 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:43.015 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:43.999 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:44.055 I/.frodo21.reader(13441): Background young concurrent mark compact GC freed 17MB AllocSpace bytes, 250(12MB) LOS objects, 64% free, 16MB/45MB, paused 212us,7.781ms total 45.639ms
+08-21 22:53:44.135 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:44.650 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:44.721 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:53:45.177 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:45.307 I/ImeFocusController(13441): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:45.307 I/ImeFocusController(13441): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:45.693 I/VRI[MainActivity]@5c05976(13441): handleResized, frames=ClientWindowFrames{frame=[0,0][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+08-21 22:53:46.023 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = true visible = false
+08-21 22:53:46.023 D/VRI[MainActivity]@5c05976(13441): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:53:46.030 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:46.036 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=2 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:53:46.036 D/VRI[MainActivity]@5c05976(13441): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:53:46.037 I/VRI[MainActivity]@5c05976(13441): stopped(true) old = false
+08-21 22:53:46.037 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:53:46.037 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:46.045 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:46.050 D/BBA2    (13441): setIsFg isFg = false; delayValue 3999ms
+08-21 22:53:47.447 D/InputTransport(13441): Input channel destroyed: 'ClientS', fd=145
+08-21 22:53:48.270 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = false visible = true
+08-21 22:53:48.279 I/VRI[MainActivity]@5c05976(13441): stopped(false) old = true
+08-21 22:53:48.279 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:53:48.279 D/ViewRootImpl(13441): Skipping stats log for color mode
+08-21 22:53:48.288 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:53:48.288 I/BLASTBufferQueue_Java(13441): new BLASTBufferQueue, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca15bda0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:53:48.288 I/BLASTBufferQueue_Java(13441): update, w= 1440 h= 3120 mName = VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca15bda0 sc.mNativeObject= 0xb40000741a0cd610 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:53:48.289 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:53:48.289 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=6 res=0x3 s={true 0xb40000723a0ab3a0} ch=true seqId=0
+08-21 22:53:48.290 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a0ab3a0} hwInitialized=true
+08-21 22:53:48.291 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:53:48.291 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#16
+08-21 22:53:48.291 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#17
+08-21 22:53:48.291 D/VRI[MainActivity]@5c05976(13441): Start draw after previous draw not visible
+08-21 22:53:48.291 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:53:48.298 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:53:48.298 I/VRI[MainActivity]@5c05976(13441): mWNT: t=0xb40000726a0d3950 mBlastBufferQueue=0xb4000073ca15bda0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:53:48.298 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:53:48.299 I/BLASTBufferQueue(13441): [VRI[MainActivity]@5c05976#8](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:53:48.300 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:53:48.300 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:53:48.301 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:53:48.301 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:53:48.324 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a0ab3a0}
+08-21 22:53:48.325 D/InputMethodManagerUtils(13441): startInputInner - Id : 0
+08-21 22:53:48.325 I/InputMethodManager(13441): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:53:48.326 D/InsetsController(13441): hide(ime())
+08-21 22:53:48.326 I/ImeTracker(13441): sk.frodo21.reader:b54773c8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:53:48.328 D/InputTransport(13441): Input channel constructed: 'ClientS', fd=155
+08-21 22:53:49.256 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:53:49.266 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:53:49.377 D/Activity(13441): onBackInvoked, activity=sk.frodo21.reader.MainActivity@e89feca, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-21 22:53:49.379 D/WindowOnBackDispatcher(13441): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:53:49.420 I/ImeFocusController(13441): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:49.420 I/ImeFocusController(13441): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:53:49.461 D/InputTransport(13441): Input channel destroyed: 'ClientS', fd=155
+08-21 22:53:50.093 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = true visible = false
+08-21 22:53:50.093 D/VRI[MainActivity]@5c05976(13441): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:53:50.102 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:50.107 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=2 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:53:50.108 D/VRI[MainActivity]@5c05976(13441): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:53:50.108 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:50.109 I/VRI[MainActivity]@5c05976(13441): stopped(true) old = false
+08-21 22:53:50.109 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:53:50.110 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:53:50.121 D/BBA2    (13441): setIsFg isFg = false; delayValue 3999ms
+08-21 22:54:50.100 D/Choreographer(13441): BBA2 receive callback when in bg : 4
+08-21 22:54:50.114 D/HWUI    (13441): CacheManager::trimMemory(40)
+08-21 22:55:35.312 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = false visible = true
+08-21 22:55:35.316 I/VRI[MainActivity]@5c05976(13441): stopped(false) old = true
+08-21 22:55:35.316 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:55:35.319 D/ViewRootImpl(13441): Skipping stats log for color mode
+08-21 22:55:35.326 V/XGL     (13441): ----------------------------------------------------------------------
+08-21 22:55:35.326 V/XGL     (13441): SUMD version compiled date     = 2026-01-09 09:57 - KST
+08-21 22:55:35.326 V/XGL     (13441): SUMD version revision number   = 1900168dcb
+08-21 22:55:35.326 V/XGL     (13441): SUMD version info              = Driver version: 24.0.534, git hash: 1900168dcb
+08-21 22:55:35.326 V/XGL     (13441): ----------------------------------------------------------------------
+08-21 22:55:35.326 V/XGL     (13441): Entering: Create
+08-21 22:55:35.351 V/XGL     (13441): Exiting: Create
+08-21 22:55:35.370 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:55:35.371 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:55:35.373 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:55:35.374 I/BLASTBufferQueue_Java(13441): new BLASTBufferQueue, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca109880 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:55:35.374 I/BLASTBufferQueue_Java(13441): update, w= 1440 h= 3120 mName = VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca109880 sc.mNativeObject= 0xb40000741a0b6e10 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:55:35.374 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:55:35.374 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=5 res=0x3 s={true 0xb40000723a0a8020} ch=true seqId=0
+08-21 22:55:35.375 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a0a8020} hwInitialized=true
+08-21 22:55:35.376 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:55:35.376 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#18
+08-21 22:55:35.376 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#19
+08-21 22:55:35.376 D/VRI[MainActivity]@5c05976(13441): Start draw after previous draw not visible
+08-21 22:55:35.377 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:55:35.409 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:55:35.409 I/VRI[MainActivity]@5c05976(13441): mWNT: t=0xb40000726a0b5cf0 mBlastBufferQueue=0xb4000073ca109880 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:55:35.409 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:55:35.429 I/BLASTBufferQueue(13441): [VRI[MainActivity]@5c05976#9](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:55:35.430 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:55:35.431 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:55:35.449 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a0a8020}
+08-21 22:55:35.450 D/InputMethodManagerUtils(13441): startInputInner - Id : 0
+08-21 22:55:35.451 I/InputMethodManager(13441): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:55:35.457 D/InputTransport(13441): Input channel constructed: 'ClientS', fd=145
+08-21 22:55:35.470 D/InsetsController(13441): hide(ime())
+08-21 22:55:35.470 I/ImeTracker(13441): sk.frodo21.reader:83abed36: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:55:36.984 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:36.997 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:55:37.050 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:55:38.114 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:38.169 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:55:38.203 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:55:39.271 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:39.346 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:55:39.372 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f9ffc05
+08-21 22:55:40.783 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:40.854 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:55:43.548 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:43.768 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:55:45.557 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:45.693 I/ImeFocusController(13441): onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:55:45.693 I/ImeFocusController(13441): onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+08-21 22:55:46.332 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = true visible = false
+08-21 22:55:46.332 D/VRI[MainActivity]@5c05976(13441): visibilityChanged oldVisibility=true newVisibility=false
+08-21 22:55:46.343 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:55:46.363 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)8 dur=13 res=0x2 s={false 0x0} ch=true seqId=0
+08-21 22:55:46.364 D/VRI[MainActivity]@5c05976(13441): Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+08-21 22:55:46.365 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:55:46.366 I/VRI[MainActivity]@5c05976(13441): stopped(true) old = false
+08-21 22:55:46.366 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to true
+08-21 22:55:46.367 D/HWUI    (13441): CacheManager::trimMemory(20)
+08-21 22:55:46.373 D/InputTransport(13441): Input channel destroyed: 'ClientS', fd=145
+08-21 22:55:46.402 D/BBA2    (13441): setIsFg isFg = false; delayValue 3999ms
+08-21 22:55:58.097 D/Choreographer(13441): BBA2 receive callback when in bg : 4
+08-21 22:55:58.105 D/HWUI    (13441): CacheManager::trimMemory(40)
+08-21 22:55:58.557 I/VRI[MainActivity]@5c05976(13441): handleAppVisibility mAppVisible = false visible = true
+08-21 22:55:58.565 I/VRI[MainActivity]@5c05976(13441): stopped(false) old = true
+08-21 22:55:58.565 D/VRI[MainActivity]@5c05976(13441): WindowStopped on sk.frodo21.reader/sk.frodo21.reader.MainActivity set to false
+08-21 22:55:58.566 D/ViewRootImpl(13441): Skipping stats log for color mode
+08-21 22:55:58.566 V/XGL     (13441): ----------------------------------------------------------------------
+08-21 22:55:58.566 V/XGL     (13441): SUMD version compiled date     = 2026-01-09 09:57 - KST
+08-21 22:55:58.566 V/XGL     (13441): SUMD version revision number   = 1900168dcb
+08-21 22:55:58.566 V/XGL     (13441): SUMD version info              = Driver version: 24.0.534, git hash: 1900168dcb
+08-21 22:55:58.566 V/XGL     (13441): ----------------------------------------------------------------------
+08-21 22:55:58.566 V/XGL     (13441): Entering: Create
+08-21 22:55:58.591 V/XGL     (13441): Exiting: Create
+08-21 22:55:58.598 I/InsetsController(13441): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,1677][1440,3120] mAttachedInsets=null mVisible=false mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 22:55:58.604 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:55:58.605 I/BLASTBufferQueue_Java(13441): new BLASTBufferQueue, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca109880 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3603 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 android.view.Choreographer.doCallbacks:1423 android.view.Choreographer.doFrame:1348 android.view.Choreographer$FrameDisplayEventReceiver.run:1930 
+08-21 22:55:58.605 I/BLASTBufferQueue_Java(13441): update, w= 1440 h= 3120 mName = VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca109880 sc.mNativeObject= 0xb40000741a0b6e10 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3608 android.view.ViewRootImpl.relayoutWindow:11813 android.view.ViewRootImpl.performTraversals:4840 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 
+08-21 22:55:58.605 W/libc    (13441): Access denied finding property "vendor.perf.ems.egg"
+08-21 22:55:58.605 I/VRI[MainActivity]@5c05976(13441): Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,3120) relayoutAsync=false req=(1440,3120)0 dur=28 res=0x3 s={true 0xb40000723a1f2bc0} ch=true seqId=0
+08-21 22:55:58.606 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000723a1f2bc0} hwInitialized=true
+08-21 22:55:58.607 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.performTraversals:5507 android.view.ViewRootImpl.doTraversal:3959 android.view.ViewRootImpl$TraversalRunnable.run:13034 android.view.Choreographer$CallbackRecord.run:1961 android.view.Choreographer$CallbackRecord.run:1970 
+08-21 22:55:58.607 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#20
+08-21 22:55:58.607 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#21
+08-21 22:55:58.607 D/VRI[MainActivity]@5c05976(13441): Start draw after previous draw not visible
+08-21 22:55:58.607 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:55:58.619 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=1.
+08-21 22:55:58.619 I/VRI[MainActivity]@5c05976(13441): mWNT: t=0xb40000726a0e4590 mBlastBufferQueue=0xb4000073ca109880 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15561 android.view.ThreadedRenderer$1.onFrameDraw:751 <bottom of call stack> 
+08-21 22:55:58.619 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:55:58.635 I/BLASTBufferQueue(13441): [VRI[MainActivity]@5c05976#10](f:0,a:0,s:0) onFrameAvailable the first frame is available
+08-21 22:55:58.636 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+08-21 22:55:58.636 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:55:58.637 I/InsetsController(13441): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mAttachedInsets=null mVisible=false mFlags=INVALID mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 22:55:58.637 I/VRI[MainActivity]@5c05976(13441): handleResized, frames=ClientWindowFrames{frame=[0,0][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+08-21 22:55:58.637 I/VRI[MainActivity]@5c05976(13441): handleResized mSyncSeqId = 0
+08-21 22:55:58.637 D/VRI[MainActivity]@5c05976(13441): reportNextDraw android.view.ViewRootImpl.handleResized:2995 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$W.resized:14200 android.app.servertransaction.WindowStateResizeItem.execute:81 android.app.servertransaction.WindowStateTransactionItem.execute:62 
+08-21 22:55:58.637 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:55:58.638 I/InsetsSourceConsumer(13441): applyRequestedVisibilityToControl: visible=true, type=statusBars, host=sk.frodo21.reader/sk.frodo21.reader.MainActivity
+08-21 22:55:58.643 D/VRI[MainActivity]@5c05976(13441): Setup new sync=wmsSync-VRI[MainActivity]@5c05976#22
+08-21 22:55:58.643 I/VRI[MainActivity]@5c05976(13441): Creating new active sync group VRI[MainActivity]@5c05976#23
+08-21 22:55:58.643 D/VRI[MainActivity]@5c05976(13441): registerCallbacksForSync syncBuffer=false
+08-21 22:55:58.644 D/VRI[MainActivity]@5c05976(13441): Received frameDrawingCallback syncResult=0 frameNum=2.
+08-21 22:55:58.644 I/VRI[MainActivity]@5c05976(13441): Setting up sync and frameCommitCallback
+08-21 22:55:58.644 I/VRI[MainActivity]@5c05976(13441): Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=false
+08-21 22:55:58.644 I/BLASTBufferQueue_Java(13441): gatherPendingTransactions, mName= VRI[MainActivity]@5c05976 mNativeObject= 0xb4000073ca109880 frameNumber= 2 caller= android.view.ViewRootImpl$12.lambda$onFrameDraw$3:15645 android.view.ViewRootImpl$12.$r8$lambda$CTo3ExVBk8akdVTGlqHPAoYLRVI:0 android.view.ViewRootImpl$12$$ExternalSyntheticLambda1.onFrameCommit:0 android.view.ThreadedRenderer$1.lambda$onFrameDraw$0:763 android.view.ThreadedRenderer$1$$ExternalSyntheticLambda0.onFrameCommit:0 <bottom of call stack> 
+08-21 22:55:58.645 D/VRI[MainActivity]@5c05976(13441): reportDrawFinished seqId=0
+08-21 22:55:58.655 D/VRI[MainActivity]@5c05976(13441): mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000723a1f2bc0}
+08-21 22:55:58.657 D/InputMethodManagerUtils(13441): startInputInner - Id : 0
+08-21 22:55:58.657 I/InputMethodManager(13441): startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+08-21 22:55:58.666 D/InputTransport(13441): Input channel constructed: 'ClientS', fd=145
+08-21 22:55:58.673 D/InsetsController(13441): hide(ime())
+08-21 22:55:58.673 I/ImeTracker(13441): sk.frodo21.reader:89e92b00: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+08-21 22:55:58.683 I/InsetsController(13441): onStateChanged: host=sk.frodo21.reader/sk.frodo21.reader.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3038, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 126 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(686, 0 - 754, 126), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -9.066666666666667 V 33.6 H 9.066666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=126, center=Point(126, 126)}, RoundedCorner{position=TopRight, radius=126, center=Point(1314, 126)}, RoundedCorner{position=BottomRight, radius=126, center=Point(1314, 2994)}, RoundedCorner{position=BottomLeft, radius=126, center=Point(126, 2994)}]}  mRoundedCornerFrame=Rect(0, 0 - 1440, 3120), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1286, 0 - 1440, 127) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1440 displayHeight=3120 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {f7f10000 mType=statusBars mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10005 mType=mandatorySystemGestures mFrame=[0,0][1440,168] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {f7f10006 mType=tappableElement mFrame=[0,0][1440,127] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mAttachedInsets=null mVisible=false mFlags=INVALID mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,126] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {71f40001 mType=navigationBars mFrame=[0,3067][1440,3120] mAttachedInsets=null mVisible=true mFlags=SUPPRESS_SCRIM mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40004 mType=systemGestures mFrame=[0,0][78,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT mBoundingRects=null}, InsetsSource: {71f40005 mType=mandatorySystemGestures mFrame=[0,3008][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {71f40006 mType=tappableElement mFrame=[0,0][0,0] mAttachedInsets=null mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {71f40024 mType=systemGestures mFrame=[1301,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT mBoundingRects=null} }
+08-21 22:55:59.240 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:55:59.244 I/VRI[MainActivity]@5c05976(13441): call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@5c05976
+08-21 22:55:59.297 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:56:00.068 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:56:00.114 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:56:00.138 D/WindowOnBackDispatcher(13441): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@dd6ae7c
+08-21 22:56:00.697 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:56:00.792 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
+08-21 22:56:01.914 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 0
+08-21 22:56:02.001 I/VRI[MainActivity]@5c05976(13441): ViewPostIme pointer 1
