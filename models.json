@@ -1,0 +1,24 @@
+[
+  {
+    "id": "gemma3-1b",
+    "name": "Gemma 3 1B",
+    "file": "gemma3-1b-it-int4.task",
+    "url": "https://github.com/frodo21/briefly/releases/download/model/gemma3-1b-it-int4.task",
+    "sizeBytes": 554661246,
+    "maxTokens": 1280,
+    "inputChars": 2600,
+    "minRamMb": 3000,
+    "note": "Najmenší a najrýchlejší. Po slovensky píše slabo — komolí slová a opakuje sa."
+  },
+  {
+    "id": "gemma3n-e2b",
+    "name": "Gemma 3n E2B",
+    "file": "gemma-3n-e2b-it-int4.task",
+    "url": "https://huggingface.co/frodo21/briefly-models/resolve/main/gemma-3n-e2b-it-int4.task?download=true",
+    "sizeBytes": 3136226711,
+    "maxTokens": 2048,
+    "inputChars": 3500,
+    "minRamMb": 7000,
+    "note": "Päťkrát väčší, slovenčinu by mal zvládať výrazne lepšie. Potrebuje 8 GB RAM a asi 6 GB voľnej pamäte pri behu."
+  }
+]
