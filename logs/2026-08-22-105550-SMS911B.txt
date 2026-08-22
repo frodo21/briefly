@@ -1,0 +1,435 @@
+=== Briefly ===
+verzia:      0.1.54 (54)
+zariadenie:  samsung SM-S911B
+android:     16 (API 36)
+abi:         arm64-v8a, armeabi-v7a, armeabi
+RAM:         7072 MB celkom, 1895 MB voľných
+
+=== denník aplikácie ===
+08-21 17:28:59.330 [app] štart, verzia 0.1.38
+08-21 17:29:42.282 [katalóg] stiahnutých 2 modelov
+08-21 17:30:10.129 [katalóg] stiahnutých 2 modelov
+08-21 17:30:16.942 [katalóg] stiahnutých 2 modelov
+08-21 17:34:42.188 [katalóg] stiahnutých 2 modelov
+08-21 17:35:43.919 [katalóg] stiahnutých 2 modelov
+08-21 17:36:08.789 [katalóg] stiahnutých 2 modelov
+08-21 17:40:13.816 [katalóg] stiahnutých 2 modelov
+08-21 17:41:01.511 [katalóg] stiahnutých 2 modelov
+08-21 17:41:52.007 [katalóg] stiahnutých 2 modelov
+08-21 17:41:55.586 [katalóg] stiahnutých 2 modelov
+08-21 17:42:07.915 [katalóg] stiahnutých 2 modelov
+08-21 19:00:55.405 [katalóg] stiahnutých 2 modelov
+08-21 19:01:09.922 [katalóg] stiahnutých 2 modelov
+08-21 22:55:24.075 [katalóg] stiahnutých 2 modelov
+08-21 22:55:41.006 [update] stiahnuté 19 MB
+08-21 22:55:56.769 [app] štart, verzia 0.1.47
+08-21 22:55:56.990 [update] zmazaný balík briefly-47.apk
+08-22 07:28:06.689 [app] štart, verzia 0.1.47
+08-22 10:49:03.379 [update] stiahnuté 19 MB
+08-22 10:49:18.398 [app] štart, verzia 0.1.54
+08-22 10:49:18.625 [update] zmazaný balík briefly-54.apk
+08-22 10:49:25.399 [nahlad] oprava starych nahladov: 7, obnovenych 7
+08-22 10:49:33.873 [hero] 26d8c71fe46678f70fdb8e77e83ae0f7 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/26d8c71fe46678f70fdb8e77e83ae0f7/900.img obrazkov=0/0
+
+
+=== logcat ===
+08-22 10:49:24.836 I/IDS_TAG ( 7096): Getting Shared Preference for sk.frodo21.reader.ReaderApp@ff0be70 uid = 10453
+08-22 10:49:24.836 I/IDS_TAG ( 7096): IDS count updated to 1 for sk.frodo21.reader.ReaderApp@ff0be70
+08-22 10:49:24.837 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:49:24.939 W/.frodo21.reader( 7096): Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+08-22 10:49:24.939 W/.frodo21.reader( 7096): Common causes for lock verification issues are non-optimized dex code
+08-22 10:49:24.939 W/.frodo21.reader( 7096): and incorrect proguard optimizations.
+08-22 10:49:24.939 W/.frodo21.reader( 7096): Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower.
+08-22 10:49:24.939 W/.frodo21.reader( 7096): Method java.lang.Object androidx.compose.runtime.snapshots.SnapshotStateList.mutate(kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+08-22 10:49:24.939 W/.frodo21.reader( 7096): Method void androidx.compose.runtime.snapshots.SnapshotStateList.update(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+08-22 10:49:24.940 W/.frodo21.reader( 7096): Method void androidx.compose.runtime.snapshots.SnapshotStateList.update$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower.
+08-22 10:49:24.953 I/.frodo21.reader( 7096): Compiler allocated 5321KB to compile void android.view.ViewRootImpl.performTraversals()
+08-22 10:49:24.953 E/BufferQueueProducer( 7096): Unable to open libpenguin.so: dlopen failed: library "libpenguin.so" not found.
+08-22 10:49:24.954 E/.frodo21.reader( 7096): Unable to open libpenguin.so: dlopen failed: library "libpenguin.so" not found.
+08-22 10:49:24.954 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:49:24.954 I/BufferQueueProducer( 7096): [](id:1bb800000000,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:49:24.956 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:49:24.968 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 60992, bufferData(ID: 30477087932419, frameNumber: 1)
+08-22 10:49:24.989 I/SQLiteOpenHelper( 7096): DB version upgrading from 5 to 7
+08-22 10:49:25.215 I/HWUI    ( 7096): Using FreeType backend (prop=Auto)
+08-22 10:49:25.572 D/ConnectivityManager( 7096): StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4912)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5329)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5299)] [coil.network.RealNetworkObserver.<init>(NetworkObserver.kt:88)] [coil.network.NetworkObserverKt.NetworkObserver(NetworkObserver.kt:33)] [coil.util.SystemCallbacks.registerNetworkObserver(SystemCallbacks.kt:52)] [coil.util.SystemCallbacks.isOnline(SystemCallbacks.kt:34)] [coil.request.RequestService.updateOptionsOnWorkerThread(RequestService.kt:130)] [coil.intercept.EngineInterceptor.execute(EngineInterceptor.kt:116)] [coil.intercept.EngineInterceptor.access$execute(EngineInterceptor.kt:42)] [coil.intercept.EngineInterceptor$intercept$2.invokeSuspend(EngineInterceptor.kt:77)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)] [kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)] [kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)] [kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)] [kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)] [kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)] [kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)] [kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)]
+08-22 10:49:25.631 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.631 E/Kumiho-Kumiho( 7096): updateList - failed to retrieve policy '/data/system/Kumiho/Kumiho.policy' retrying with default
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.whatsapp' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.facebook.orca' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'org.telegram.messenger' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.kakao.talk' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.google.android.providers.media.module' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'jp.naver.line.android' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.discord' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.tencent.mm' in the Kumiho client list
+08-22 10:49:25.632 D/Kumiho-Kumiho( 7096): updateList: inserting 'com.snapchat.android' in the Kumiho client list
+08-22 10:49:25.636 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.721 W/.frodo21.reader( 7096): Long monitor contention with owner DefaultDispatcher-worker-1 (7157) at void coil.disk.DiskLruCache.initialize()(DiskLruCache.kt:184) waiters=0 in coil.disk.DiskLruCache$Snapshot coil.disk.DiskLruCache.get(java.lang.String) for 136ms
+08-22 10:49:25.726 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.727 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.728 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.730 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.730 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.731 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.746 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:25.747 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.594 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.595 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.606 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.607 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.619 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:30.620 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:32.840 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@19acd8d
+08-22 10:49:32.913 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:32.914 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:49:33.618 W/System.err( 7096): SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+08-22 10:49:33.618 W/System.err( 7096): SLF4J: Defaulting to no-operation (NOP) logger implementation
+08-22 10:49:33.618 W/System.err( 7096): SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+08-22 10:49:34.012 I/WebViewFactory( 7096): Loading com.google.android.webview version 150.0.7871.181 (code 787118103)
+08-22 10:49:34.012 W/ResourcesManager( 7096): Found a null ResourcesImpl, skipped.
+08-22 10:49:34.014 V/ResourcesManager( 7096): The following library key has been added: ResourcesKey{ mHash=8b76c386 mResDir=null mSplitDirs=[] mOverlayDirs=[] mLibDirs=[/data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk,/system/framework/android.test.base.jar,/system_ext/framework/androidx.window.extensions.jar] mDisplayId=0 mOverrideConfig=v36 mCompatInfo={480dpi always-compat} mLoaders=[]}
+08-22 10:49:34.015 D/ApplicationLoaders( 7096): Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-22 10:49:34.015 D/ApplicationLoaders( 7096): Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+08-22 10:49:34.022 W/.frodo21.reader( 7096): Loading /data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/oat/arm64/base.odex non-executable as it requires an image which we failed to load
+08-22 10:49:34.024 D/nativeloader( 7096): Configuring clns-10 for other apk /data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/lib/arm64:/data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+08-22 10:49:34.066 I/cr_WVCFactoryProvider( 7096): version=150.0.7871.181 (787118103) minSdkVersion=29 multiprocess=true packageId=2 splits=<none>
+08-22 10:49:34.079 D/nativeloader( 7096): Load /data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk!/lib/arm64-v8a/libwebviewchromium.so using class loader ns clns-10 (caller=/data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk): ok
+08-22 10:49:34.082 D/nativeloader( 7096): Load /system/lib64/libwebviewchromium_plat_support.so using class loader ns clns-10 (caller=/data/app/~~N1A1YPPGeJ2cegqn_IYTBA==/com.google.android.webview-sk92kCK62u2srKYytpH7gg==/base.apk): ok
+08-22 10:49:34.088 E/chromium( 7096): [0822/104934.087889:ERROR:android_webview/browser/variations/variations_seed_loader.cc:39] Seed missing signature.
+08-22 10:49:34.103 I/cr_LibraryLoader( 7096): Successfully loaded native library
+08-22 10:49:34.106 I/cr_CachingUmaRecorder( 7096): Flushed 50 samples from 23 histograms, 0 samples were dropped.
+08-22 10:49:34.107 I/cr_ChildProcLH( 7096): ScopedServiceBindingBatch.tryActivate: false
+08-22 10:49:34.109 I/cr_CombinedPProvider( 7096): #registerProvider() provider:WV.wk@7d93981 isPolicyCacheEnabled:false policyProvidersSize:0
+08-22 10:49:34.109 I/cr_PolicyProvider( 7096): #setManagerAndSource() 0
+08-22 10:49:34.110 I/cr_policy( 7096): registerReceiver succeeded after 1ms
+08-22 10:49:34.112 I/cr_DisplayManager( 7096): Is Display Topology available: false
+08-22 10:49:34.138 I/cr_CombinedPProvider( 7096): #linkNativeInternal() 1
+08-22 10:49:34.140 I/cr_AppResProvider( 7096): #getApplicationRestrictionsFromUserManager() Bundle[EMPTY_PARCEL]
+08-22 10:49:34.140 I/cr_PolicyProvider( 7096): #notifySettingsAvailable() 0
+08-22 10:49:34.140 I/cr_CombinedPProvider( 7096): #onSettingsAvailable() 0
+08-22 10:49:34.140 I/cr_CombinedPProvider( 7096): #flushPolicies()
+08-22 10:49:34.203 W/chromium( 7096): [WARNING:android_webview/browser/network_service/net_helpers.cc:137] HTTP Cache size is: 20971520
+08-22 10:49:34.275 W/cr_media( 7096): BLUETOOTH_CONNECT permission is missing.
+08-22 10:49:34.275 W/cr_media( 7096): getBluetoothAdapter() requires BLUETOOTH permission
+08-22 10:49:34.275 W/cr_media( 7096): registerBluetoothIntentsIfNeeded: Requires BLUETOOTH permission
+08-22 10:49:34.279 D/AudioSystem( 7096): onNewService: media.audio_policy service obtained 0xb4000073670a0a80
+08-22 10:49:34.280 D/AudioSystem( 7096): getService: IAudioPolicyService retrieved: 0xb4000073670a0a80  cached: 0xb4000073670a0a80
+08-22 10:49:34.296 D/vulkan  ( 7096): searching for layers in '/data/app/~~SThqMxCWNADe6tVD4xC0tA==/sk.frodo21.reader-DSlFN7K0BiLaUdA3f6vtjQ==/lib/arm64'
+08-22 10:49:34.297 D/vulkan  ( 7096): searching for layers in '/data/app/~~SThqMxCWNADe6tVD4xC0tA==/sk.frodo21.reader-DSlFN7K0BiLaUdA3f6vtjQ==/base.apk!/lib/arm64-v8a'
+08-22 10:49:34.304 W/Adreno-AppProfiles( 7096): Could not find QSPM HAL service. Skipping adreno profile processing.
+08-22 10:49:34.304 I/AdrenoVK-0( 7096): ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+08-22 10:49:34.304 I/AdrenoVK-0( 7096): ===== END DUMP OF OVERRIDDEN SETTINGS =====
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): QUALCOMM build          : 3df4c357f0, I515341007c
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Build Date              : 01/27/26
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Shader Compiler Version : E031.41.03.64
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Local Branch            : 
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.13.2.0.11.00.00.856.062
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Remote Branch           : NONE
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Reconstruct Branch      : NOTHING
+08-22 10:49:34.310 I/AdrenoVK-0( 7096): Build Config            : S P 14.1.4 AArch64
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Driver Version          : 0676.77.1
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): PFP                     : 0x01740181
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): ME                      : 0x00000000
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Application Name    : 
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Application Version : 0x00000001
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Engine Name         : 
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Engine Version      : 0x00000001
+08-22 10:49:34.311 I/AdrenoVK-0( 7096): Api Version         : 0x00403000
+08-22 10:49:34.312 I/View    ( 7096): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{8e39468 VFEDHVC.. ........ 0,0-1080,2005}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-22 10:49:34.348 I/CameraManagerGlobal( 7096): Connecting to camera service
+08-22 10:49:34.353 I/cr_AppResProvider( 7096): #getApplicationRestrictionsFromUserManager() Bundle[EMPTY_PARCEL]
+08-22 10:49:34.353 I/cr_PolicyProvider( 7096): #notifySettingsAvailable() 0
+08-22 10:49:34.353 I/cr_CombinedPProvider( 7096): #onSettingsAvailable() 0
+08-22 10:49:34.353 I/cr_CombinedPProvider( 7096): #flushPolicies()
+08-22 10:49:34.357 D/VendorTagDescriptor( 7096): addVendorDescriptor: vendor tag id 8932615658386372252 added
+08-22 10:49:34.357 D/VendorTagDescriptor( 7096): addVendorDescriptor: vendor tag id 15055940602041719656 added
+08-22 10:49:34.370 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:49:34.370 I/CameraManagerGlobal( 7096): Camera 1 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.370 I/CameraManagerGlobal( 7096): Camera 2 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 20 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.sec.android.app.camera API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManager( 7096): registerAvailabilityCallback: Is device callback = false
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 21 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 23 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 3 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 52 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): Camera 56 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.371 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 0 status STATUS_PRESENT
+08-22 10:49:34.372 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 1 status STATUS_PRESENT
+08-22 10:49:34.372 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 2 status STATUS_PRESENT
+08-22 10:49:34.372 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 3 status STATUS_PRESENT
+08-22 10:49:34.372 I/CameraManagerGlobal( 7096): Camera 58 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.372 I/CameraManagerGlobal( 7096): Camera 90 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client android.system API Level 2 User Id 0Device Id 0
+08-22 10:49:34.380 W/AudioCapabilities( 7096): Unsupported mediaType audio/x-ape
+08-22 10:49:34.380 W/AudioCapabilities( 7096): Unsupported mediaType audio/x-ima
+08-22 10:49:34.380 W/AudioCapabilities( 7096): Unsupported mediaType audio/mpeg-L1
+08-22 10:49:34.380 W/AudioCapabilities( 7096): Unsupported mediaType audio/mpeg-L2
+08-22 10:49:34.380 W/VideoCapabilities( 7096): Unsupported mime video/wvc1
+08-22 10:49:34.380 W/VideoCapabilities( 7096): Unsupported mime video/x-ms-wmv
+08-22 10:49:34.385 I/View    ( 7096): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{8e39468 VFEDHVC.. ........ 0,0-1080,2005}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-22 10:49:34.389 W/VideoCapabilities( 7096): Unsupported mime image/vnd.android.heic
+08-22 10:49:34.390 W/VideoCapabilities( 7096): Unrecognized profile/level 32768/256 for video/mp4v-es
+08-22 10:49:34.394 W/AudioCapabilities( 7096): Unsupported mediaType audio/x-ape
+08-22 10:49:34.394 W/AudioCapabilities( 7096): Unsupported mediaType audio/x-ima
+08-22 10:49:34.394 W/AudioCapabilities( 7096): Unsupported mediaType audio/mpeg-L1
+08-22 10:49:34.394 W/AudioCapabilities( 7096): Unsupported mediaType audio/mpeg-L2
+08-22 10:49:34.394 W/VideoCapabilities( 7096): Unsupported mime video/wvc1
+08-22 10:49:34.394 W/VideoCapabilities( 7096): Unsupported mime video/x-ms-wmv
+08-22 10:49:34.402 W/VideoCapabilities( 7096): Unsupported mime image/vnd.android.heic
+08-22 10:49:34.402 W/VideoCapabilities( 7096): Unrecognized profile/level 32768/256 for video/mp4v-es
+08-22 10:49:34.411 W/AudioCapabilities( 7096): Unsupported mime audio/x-ape
+08-22 10:49:34.411 W/AudioCapabilities( 7096): Unsupported mime audio/x-ima
+08-22 10:49:34.412 W/AudioCapabilities( 7096): Unsupported mime audio/mpeg-L1
+08-22 10:49:34.412 W/AudioCapabilities( 7096): Unsupported mime audio/mpeg-L2
+08-22 10:49:34.412 W/VideoCapabilities( 7096): Unsupported mime video/wvc1
+08-22 10:49:34.412 W/VideoCapabilities( 7096): Unsupported mime video/x-ms-wmv
+08-22 10:49:34.419 W/VideoCapabilities( 7096): Unsupported mime image/vnd.android.heic
+08-22 10:49:34.419 W/VideoCapabilities( 7096): Unrecognized profile/level 32768/256 for video/mp4v-es
+08-22 10:49:34.422 W/VideoCapabilities( 7096): Unsupported mime video/wvc1
+08-22 10:49:34.426 W/VideoCapabilities( 7096): Unsupported mime image/vnd.android.heic
+08-22 10:49:34.521 I/.frodo21.reader( 7096): Background young concurrent mark compact GC freed 16MB AllocSpace bytes, 99(5964KB) LOS objects, 66% free, 10MB/31MB, paused 214us,1.891ms total 107.983ms
+08-22 10:49:34.552 I/View    ( 7096): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{8e39468 VFEDHVC.. ........ 0,0-1080,2005}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-22 10:49:34.569 I/View    ( 7096): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{8e39468 VFEDHVC.. ........ 0,0-1080,2005}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-22 10:49:34.619 I/View    ( 7096): setRequestedFrameRate frameRate=-4.0, this=android.webkit.WebView{8e39468 VFEDHVC.. ........ 0,0-1080,2005}, caller=android.view.ViewGroup.setRequestedFrameRate:10045 WV.xf.p:1 WV.wg.h:117 WV.wg.onDraw:7 com.android.webview.chromium.WebViewChromium.onDraw:19 
+08-22 10:49:35.581 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:49:47.714 D/Activity( 7096): onBackInvoked, activity=sk.frodo21.reader.MainActivity@bb29f7c, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-22 10:49:47.727 D/WindowOnBackDispatcher( 7096): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:49:47.806 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:49:49.860 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:49:49.860 I/BufferQueueProducer( 7096): [](id:1bb800000001,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:49:49.862 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:49:49.893 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61020, bufferData(ID: 30477087932432, frameNumber: 1)
+08-22 10:49:56.030 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:50:17.708 D/ViewRootImpl( 7096): Skipping stats log for color mode
+08-22 10:50:17.726 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:50:17.726 I/BufferQueueProducer( 7096): [](id:1bb800000002,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:50:17.726 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:50:17.777 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61067, bufferData(ID: 30477087932436, frameNumber: 1)
+08-22 10:50:22.485 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:22.486 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.733 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.734 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.769 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.769 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.794 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.795 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.847 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.848 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.888 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.888 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.931 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.931 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.993 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:25.994 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:26.047 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:26.048 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:27.849 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:27.849 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:27.949 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:27.949 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.063 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.064 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.116 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.117 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.160 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.160 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.350 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:28.351 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:31.427 I/Dialog  ( 7096): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-22 10:50:31.430 I/DecorView( 7096): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@e749b8f
+08-22 10:50:31.438 I/WindowManager( 7096): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{b883aa V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.material3.ModalBottomSheet_androidKt$ModalBottomSheetDialog$1$1.invoke:307 
+08-22 10:50:31.438 D/ViewRootImpl( 7096): desktopMode is false
+08-22 10:50:31.438 I/ViewRootImpl( 7096): dVRR is disabled
+08-22 10:50:31.438 D/NativeCustomFrequencyManager( 7096): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-22 10:50:31.447 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@a93c677
+08-22 10:50:31.447 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@e6df2e4
+08-22 10:50:31.447 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.compose.material3.ModalBottomSheetDialogLayout$Api34Impl$createBackCallback$1@52a134d
+08-22 10:50:31.482 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:50:31.482 I/BufferQueueProducer( 7096): [](id:1bb800000003,api:0,p:0,c:7096) setDequeueTimeout:2077252342
+08-22 10:50:31.483 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:50:31.493 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61078, bufferData(ID: 30477087932455, frameNumber: 1)
+08-22 10:50:33.840 I/WindowManager( 7096): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{b883aa V.E...... R......D 0,0-1080,2340 aid=1073741824}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-22 10:50:33.840 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): null
+08-22 10:50:36.919 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:36.919 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:36.923 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:36.923 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:36.962 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:36.963 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.001 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.001 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.289 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.289 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.313 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.314 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.330 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.330 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.331 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.332 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.333 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.334 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.347 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.347 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.428 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.429 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.502 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.504 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.664 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.664 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.665 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.665 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.687 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.687 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.687 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.687 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.728 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.729 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.741 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.742 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.749 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.750 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.771 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.772 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.793 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.793 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.813 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.814 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.835 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.836 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.863 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.864 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.884 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.884 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.937 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.937 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.960 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.961 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.963 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:37.964 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.012 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.013 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.028 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.029 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.040 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.041 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.070 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.071 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.140 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.141 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.165 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.166 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.170 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.171 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.263 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.264 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.318 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.319 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.332 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.333 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.369 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:50:38.370 I/Kumiho-Kumiho( 7096): getPackageName: sk.frodo21.reader
+08-22 10:51:17.079 D/Activity( 7096): onBackInvoked, activity=sk.frodo21.reader.MainActivity@bb29f7c, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-22 10:51:17.097 D/WindowOnBackDispatcher( 7096): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:51:17.183 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:51:21.256 D/ViewRootImpl( 7096): Skipping stats log for color mode
+08-22 10:51:21.256 D/BBA2    ( 7096): setIsFg isFg = true
+08-22 10:51:21.276 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:51:21.276 I/BufferQueueProducer( 7096): [](id:1bb800000004,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:51:21.277 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:51:21.293 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61115, bufferData(ID: 30477087932498, frameNumber: 1)
+08-22 10:51:31.981 I/Dialog  ( 7096): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-22 10:51:31.984 I/DecorView( 7096): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@3ea2636
+08-22 10:51:31.992 I/WindowManager( 7096): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{d59da7d V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.material3.ModalBottomSheet_androidKt$ModalBottomSheetDialog$1$1.invoke:307 
+08-22 10:51:31.993 D/ViewRootImpl( 7096): desktopMode is false
+08-22 10:51:31.993 I/ViewRootImpl( 7096): dVRR is disabled
+08-22 10:51:31.993 D/NativeCustomFrequencyManager( 7096): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-22 10:51:32.005 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@beedc35
+08-22 10:51:32.005 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@1ca18ca
+08-22 10:51:32.006 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.compose.material3.ModalBottomSheetDialogLayout$Api34Impl$createBackCallback$1@cd64a3b
+08-22 10:51:32.049 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:51:32.049 I/BufferQueueProducer( 7096): [](id:1bb800000005,api:0,p:0,c:7096) setDequeueTimeout:2077252342
+08-22 10:51:32.050 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:51:32.066 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61130, bufferData(ID: 30477087932502, frameNumber: 1)
+08-22 10:51:35.077 I/WindowManager( 7096): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{d59da7d V.E...... R......D 0,0-1080,2340 aid=1073741825}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-22 10:51:35.078 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): null
+08-22 10:52:06.221 D/Activity( 7096): onBackInvoked, activity=sk.frodo21.reader.MainActivity@bb29f7c, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-22 10:52:06.224 D/WindowOnBackDispatcher( 7096): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:52:06.320 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:53:40.307 D/ViewRootImpl( 7096): Skipping stats log for color mode
+08-22 10:53:40.337 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:53:40.337 I/BufferQueueProducer( 7096): [](id:1bb800000006,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:53:40.338 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:53:40.401 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61214, bufferData(ID: 30477087932506, frameNumber: 1)
+08-22 10:53:56.008 D/Activity( 7096): onBackInvoked, activity=sk.frodo21.reader.MainActivity@bb29f7c, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-22 10:53:56.024 D/WindowOnBackDispatcher( 7096): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:53:56.112 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:53:57.789 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:53:57.789 I/BufferQueueProducer( 7096): [](id:1bb800000007,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:53:57.791 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:53:57.811 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61237, bufferData(ID: 30477087932510, frameNumber: 1)
+08-22 10:54:02.830 D/Activity( 7096): onBackInvoked, activity=sk.frodo21.reader.MainActivity@bb29f7c, caller=android.app.Activity.$r8$lambda$fMMzRqFB89XgwJjEXdqIB9hd6X4:0 android.app.Activity$$ExternalSyntheticLambda0.onBackInvoked:0 android.window.WindowOnBackInvokedDispatcher.onBackInvoked:495 
+08-22 10:54:02.849 D/WindowOnBackDispatcher( 7096): onBackInvoked, callback=android.app.Activity$$ExternalSyntheticLambda0@f809c63
+08-22 10:54:02.919 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:54:05.730 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:54:05.730 I/BufferQueueProducer( 7096): [](id:1bb800000008,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:54:05.731 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:54:05.748 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61263, bufferData(ID: 30477087932514, frameNumber: 1)
+08-22 10:54:23.399 D/SmartClipDataCropperImpl( 7096): doExtractSmartClipData : Extraction start! reqId = 10  Cropped area = Rect(540, 1170 - 541, 1171)  Package = sk.frodo21.reader
+08-22 10:54:23.401 D/SmartClipDataCropperImpl( 7096): addAppMetaTag : package name is sk.frodo21.reader
+08-22 10:54:23.401 D/SmartClipDataCropperImpl( 7096): sendExtractionResultToSmartClipService : -- Extracted SmartClip data information --
+08-22 10:54:23.401 D/SmartClipDataCropperImpl( 7096): sendExtractionResultToSmartClipService : Request Id : 10
+08-22 10:54:23.401 D/SmartClipDataCropperImpl( 7096): sendExtractionResultToSmartClipService : Extraction mode : 1
+08-22 10:54:23.402 D/SemSmartClipDataRepository( 7096): ----- Start of SmartClip repository informations -----
+08-22 10:54:23.402 D/SemSmartClipDataRepository( 7096): ** Content type : image
+08-22 10:54:23.402 D/SemSmartClipDataRepository( 7096): ** Meta area rect : Rect(0, 0 - 0, 0)
+08-22 10:54:23.402 D/SemSmartClipDataRepository( 7096): ** Captured image file path : null
+08-22 10:54:23.402 D/SemSmartClipDataRepository( 7096): ----- End of SmartClip repository informations -----
+08-22 10:54:23.408 D/SmartClipDataCropperImpl( 7096): sendExtractionResultToSmartClipService : Elapsed = 9
+08-22 10:54:24.126 D/SmartClipRemoteRequestDispatcher( 7096): dispatchScrollableAreaInfo : windowRect = Rect(0, 0 - 1080, 2340)
+08-22 10:54:24.128 D/SmartClipRemoteRequestDispatcher( 7096): dispatchScrollableAreaInfo : Scrollable view count = 2
+08-22 10:54:24.128 D/SmartClipRemoteRequestDispatcher( 7096): dispatchScrollableAreaInfo : Unscrollable view count = 0
+08-22 10:54:24.128 D/SmartClipRemoteRequestDispatcher( 7096): dispatchScrollableAreaInfo : Pkg=sk.frodo21.reader Activity=null
+08-22 10:54:24.916 D/BBA2    ( 7096): setIsFg isFg = false; delayValue 3999ms
+08-22 10:54:29.502 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPENING for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:54:29.520 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 0 status STATUS_NOT_AVAILABLE
+08-22 10:54:29.700 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_OPEN for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:54:29.997 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_ACTIVE for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:54:30.584 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_IDLE for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:54:30.832 I/CameraManagerGlobal( 7096): postSingleUpdate device: camera id 0 status STATUS_PRESENT
+08-22 10:54:30.835 I/CameraManagerGlobal( 7096): Camera 0 facing CAMERA_FACING_BACK state now CAMERA_STATE_CLOSED for client com.whatsapp API Level 2 User Id 0Device Id 0
+08-22 10:55:20.213 D/ViewRootImpl( 7096): Skipping stats log for color mode
+08-22 10:55:20.235 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:20.235 I/BufferQueueProducer( 7096): [](id:1bb800000009,api:0,p:20509136,c:7096) setDequeueTimeout:2077252342
+08-22 10:55:20.235 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:20.267 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61398, bufferData(ID: 30477087932518, frameNumber: 1)
+08-22 10:55:27.583 I/Dialog  ( 7096): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-22 10:55:27.588 I/DecorView( 7096): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@507c056
+08-22 10:55:27.599 I/WindowManager( 7096): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{6c817f4 V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.ui.window.AndroidDialog_androidKt$Dialog$1$1.invoke:196 
+08-22 10:55:27.599 D/ViewRootImpl( 7096): desktopMode is false
+08-22 10:55:27.599 I/ViewRootImpl( 7096): dVRR is disabled
+08-22 10:55:27.659 D/NativeCustomFrequencyManager( 7096): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-22 10:55:27.676 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@c9254de
+08-22 10:55:27.677 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@1ddf6bf
+08-22 10:55:27.726 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:27.726 I/BufferQueueProducer( 7096): [](id:1bb80000000a,api:0,p:0,c:7096) setDequeueTimeout:2077252342
+08-22 10:55:27.727 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:27.739 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61414, bufferData(ID: 30477087932522, frameNumber: 1)
+08-22 10:55:28.850 I/WindowManager( 7096): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{6c817f4 V.E...... R......D 0,0-960,804 aid=1073741826}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-22 10:55:28.850 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): null
+08-22 10:55:28.867 E/AccessibilityInteractionController( 7096): mViewRootImpl is invalid
+08-22 10:55:29.663 I/Dialog  ( 7096): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-22 10:55:29.666 I/DecorView( 7096): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@2837a73
+08-22 10:55:29.675 I/WindowManager( 7096): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{cf2319 V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.ui.window.AndroidDialog_androidKt$Dialog$1$1.invoke:196 
+08-22 10:55:29.676 D/ViewRootImpl( 7096): desktopMode is false
+08-22 10:55:29.676 I/ViewRootImpl( 7096): dVRR is disabled
+08-22 10:55:29.676 D/NativeCustomFrequencyManager( 7096): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-22 10:55:29.692 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@69dfbea
+08-22 10:55:29.692 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@501bedb
+08-22 10:55:29.724 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:29.724 I/BufferQueueProducer( 7096): [](id:1bb80000000b,api:0,p:0,c:7096) setDequeueTimeout:2077252342
+08-22 10:55:29.725 W/libc    ( 7096): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+08-22 10:55:29.734 I/SurfaceComposerClient( 7096): apply transaction with the first frame. layerId: 61426, bufferData(ID: 30477087932526, frameNumber: 1)
+08-22 10:55:32.703 I/WindowManager( 7096): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{cf2319 V.E...... R......D 0,0-960,804 aid=1073741827}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-22 10:55:32.704 D/WindowOnBackDispatcher( 7096): setTopOnBackInvokedCallback (unwrapped): null
