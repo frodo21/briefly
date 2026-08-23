@@ -1,0 +1,380 @@
+=== Briefly ===
+verzia:      0.1.82 (82)
+zariadenie:  samsung SM-S926B
+android:     16 (API 36)
+abi:         arm64-v8a
+RAM:         11203 MB celkom, 2794 MB voľných
+
+=== denník aplikácie ===
+08-23 15:04:39.733 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:04:41.863 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:04:45.850 [app] štart, verzia 0.1.78
+08-23 15:04:56.971 [app] štart, verzia 0.1.78
+08-23 15:04:59.386 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:01.574 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:05.747 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:05.748 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:08.971 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:11.145 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:15.331 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:05:15.332 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:06:22.083 [logy] odoslané ako 2026-08-23-150620-SMS926B.txt
+08-23 15:20:53.581 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:20:55.971 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:21:00.122 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:21:00.123 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:21:17.698 [app] štart, verzia 0.1.80
+08-23 15:53:38.598 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:53:40.777 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:53:44.937 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:53:44.938 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 15:54:16.290 [app] štart, verzia 0.1.82
+08-23 16:02:47.158 [app] štart, verzia 0.1.82
+08-23 16:02:47.677 [nahlad] dotiahnutych 3 nahladov z 3 clankov
+08-23 22:58:02.848 [app] štart, verzia 0.1.82
+08-23 22:58:04.839 [nahlad] dotiahnutych 8 nahladov z 8 clankov
+08-23 22:58:06.243 [nahlad] dotiahnutych 2 nahladov z 2 clankov
+08-23 22:58:13.024 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 22:58:16.122 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 22:58:21.237 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+08-23 22:58:21.241 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+java.lang.IllegalStateException: neúplný súbor
+	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+	at androidx.work.Worker$2.run(SourceFile:10)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+
+
+
+=== logcat ===
+--------- beginning of main
+08-23 22:58:02.802 I/Zygote  (  751): Process 751 created for sk.frodo21.reader
+08-23 22:58:02.803 I/.frodo21.reader(  751): Using generational CollectorTypeCMC GC.
+08-23 22:58:02.809 D/nativeloader(  751): Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+08-23 22:58:02.811 D/ActivityThread(  751): setConscryptValidator
+08-23 22:58:02.811 D/ActivityThread(  751): setConscryptValidator - put
+08-23 22:58:02.837 D/nativeloader(  751): Configuring clns-9 for other apk /data/app/~~uPw-QmQh9GPf6LO1IkPZtw==/sk.frodo21.reader-PxL13MAJGL7tncLfZ8PV2g==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~uPw-QmQh9GPf6LO1IkPZtw==/sk.frodo21.reader-PxL13MAJGL7tncLfZ8PV2g==/lib/arm64:/data/app/~~uPw-QmQh9GPf6LO1IkPZtw==/sk.frodo21.reader-PxL13MAJGL7tncLfZ8PV2g==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/sk.frodo21.reader
+08-23 22:58:02.841 V/GraphicsEnvironment(  751): Currently set values for:
+08-23 22:58:02.841 V/GraphicsEnvironment(  751):   angle_gl_driver_selection_pkgs=[]
+08-23 22:58:02.841 V/GraphicsEnvironment(  751):   angle_gl_driver_selection_values=[]
+08-23 22:58:02.841 V/GraphicsEnvironment(  751): sk.frodo21.reader is not listed in per-application setting
+08-23 22:58:02.841 V/GraphicsEnvironment(  751): ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+08-23 22:58:02.841 V/GraphicsEnvironment(  751): No special selections for ANGLE, returning default driver choice
+08-23 22:58:02.841 V/GraphicsEnvironment(  751): App is not on the allowlist for updatable production driver.
+08-23 22:58:02.844 D/WM-WrkMgrInitializer(  751): Initializing WorkManager with default configuration.
+08-23 22:58:02.844 D/WM-PackageManagerHelper(  751): Skipping component enablement for androidx.work.impl.background.systemjob.SystemJobService
+08-23 22:58:02.844 D/WM-Schedulers(  751): Created SystemJobScheduler and enabled SystemJobService
+08-23 22:58:02.846 I/HWUI    (  751): Using FreeType backend (prop=Auto)
+08-23 22:58:02.853 E/ashmem  (  751): Pinning is deprecated since Android Q. Please use trim or other methods.
+--------- beginning of system
+08-23 22:58:02.854 D/ActivityThread(  751): sk.frodo21.reader will use render engine as VK
+08-23 22:58:02.856 D/vulkan  (  751): searching for layers in '/data/app/~~uPw-QmQh9GPf6LO1IkPZtw==/sk.frodo21.reader-PxL13MAJGL7tncLfZ8PV2g==/lib/arm64'
+08-23 22:58:02.856 D/vulkan  (  751): searching for layers in '/data/app/~~uPw-QmQh9GPf6LO1IkPZtw==/sk.frodo21.reader-PxL13MAJGL7tncLfZ8PV2g==/base.apk!/lib/arm64-v8a'
+08-23 22:58:02.856 V/XGL     (  751): ----------------------------------------------------------------------
+08-23 22:58:02.856 V/XGL     (  751): SUMD version compiled date     = 2026-01-09 09:57 - KST
+08-23 22:58:02.856 V/XGL     (  751): SUMD version revision number   = 1900168dcb
+08-23 22:58:02.856 V/XGL     (  751): SUMD version info              = Driver version: 24.0.534, git hash: 1900168dcb
+08-23 22:58:02.856 V/XGL     (  751): ----------------------------------------------------------------------
+08-23 22:58:02.856 V/XGL     (  751): Entering: Create
+08-23 22:58:02.859 D/DesktopExperienceFlags(  751): Toggle override initialized to: false
+08-23 22:58:02.870 V/XGL     (  751): Exiting: Create
+08-23 22:58:02.874 D/CompatChangeReporter(  751): Compat change id reported: 377864165; UID 10606; state: ENABLED
+08-23 22:58:02.874 D/DesktopModeFlags(  751): Toggle override initialized to: OVERRIDE_UNSET
+08-23 22:58:02.875 I/DecorView(  751): setWindowBackground: isPopOver=false color=fffafafa d=android.graphics.drawable.ColorDrawable@9276053
+08-23 22:58:02.884 D/ViewRootImpl(  751): desktopMode is false
+08-23 22:58:02.885 I/ViewRootImpl(  751): dVRR is disabled
+08-23 22:58:02.885 D/HardwareRenderer(  751): onDisplayChanged. displayId=0 current wxh=1440x3120 mLargest wxh=0x0
+08-23 22:58:02.885 D/HardwareRenderer(  751): Set largestWidth and largestHeight as logical resolution. (1440x3120)
+08-23 22:58:02.885 D/NativeCustomFrequencyManager(  751): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-23 22:58:02.885 W/JobInfo (  751): Requested important-while-foreground flag for job17 is ignored and takes no effect
+08-23 22:58:02.887 I/.frodo21.reader(  751): [HIDL_FETCH_IMapper] android.hardware.graphics.mapper@4.0: Loaded Mapper successfully.
+08-23 22:58:02.889 I/IDS_TAG (  751): Starting IDS observe window
+08-23 22:58:02.889 I/IDS_TAG (  751): Getting Shared Preference for sk.frodo21.reader.ReaderApp@3f30a3a uid = 10606
+08-23 22:58:02.891 I/IDS_TAG (  751): App sk.frodo21.reader.ReaderApp@3f30a3a has not finished training
+08-23 22:58:02.891 I/IDS_TAG (  751): Closing IDS observe window
+08-23 22:58:02.891 I/IDS_TAG (  751): Getting Shared Preference for sk.frodo21.reader.ReaderApp@3f30a3a uid = 10606
+08-23 22:58:02.892 I/IDS_TAG (  751): IDS count updated to 3 for sk.frodo21.reader.ReaderApp@3f30a3a
+08-23 22:58:02.893 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@4b60395
+08-23 22:58:02.898 D/ConnectivityManager(  751): StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [androidx.work.impl.utils.NetworkApi24.registerDefaultNetworkCallbackCompat(SourceFile:10)] [androidx.work.impl.constraints.trackers.NetworkStateTracker24.startTracking(SourceFile:17)] [androidx.work.impl.constraints.controllers.ConstraintController$track$1.invokeSuspend(SourceFile:105)] [androidx.work.impl.constraints.controllers.ConstraintController$track$1.invoke(SourceFile:12)] [kotlinx.coroutines.flow.ChannelFlowBuilder.collectTo(SourceFile:2)] [kotlinx.coroutines.flow.CallbackFlowBuilder.collectTo(SourceFile:58)] [kotlinx.coroutines.flow.internal.ChannelFlow$collectToFun$1.invokeSuspend(SourceFile:32)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)] [kotlinx.coroutines.DispatchedTask.run(SourceFile:112)] [androidx.work.Worker$2.run(SourceFile:223)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+08-23 22:58:02.906 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:02.906 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:03.053 D/ConnectivityManager(  751): StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4912)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5329)] [android.net.ConnectivityManager.registerNetworkCallback(ConnectivityManager.java:5299)] [coil.network.RealNetworkObserver.<init>(SourceFile:29)] [coil.network.NetworkObserverKt.NetworkObserver(SourceFile:23)] [coil.util.SystemCallbacks.registerNetworkObserver(SourceFile:33)] [coil.util.SystemCallbacks.isOnline(SourceFile:1)] [coil.request.RequestService.updateOptionsOnWorkerThread(SourceFile:36)] [coil.intercept.EngineInterceptor.execute(SourceFile:170)] [coil.intercept.EngineInterceptor.access$execute(SourceFile:0)] [coil.intercept.EngineInterceptor$intercept$2.invokeSuspend(SourceFile:38)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)] [kotlinx.coroutines.DispatchedTask.run(SourceFile:112)] [androidx.work.Worker$2.run(SourceFile:10)] [kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)] [kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)]
+08-23 22:58:03.072 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.075 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.075 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.076 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.076 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.077 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.078 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.whatsapp' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.facebook.orca' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'org.telegram.messenger' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.kakao.talk' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'jp.naver.line.android' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.discord' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.tencent.mm' in the Kumiho client list
+08-23 22:58:03.078 D/Kumiho-Kumiho(  751): updateList: inserting 'com.snapchat.android' in the Kumiho client list
+08-23 22:58:03.078 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.081 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.081 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.081 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:03.082 I/Kumiho-Kumiho(  751): getPackageName: sk.frodo21.reader
+08-23 22:58:04.112 I/Dialog  (  751): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-23 22:58:04.119 I/DecorView(  751): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@f81c937
+08-23 22:58:04.134 I/WindowManager(  751): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{8115722 V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.ui.window.DialogWrapper$2.invoke:9 
+08-23 22:58:04.135 D/ViewRootImpl(  751): desktopMode is false
+08-23 22:58:04.135 I/ViewRootImpl(  751): dVRR is disabled
+08-23 22:58:04.136 D/NativeCustomFrequencyManager(  751): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-23 22:58:04.156 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@de3059
+08-23 22:58:04.156 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@f2be41e
+08-23 22:58:04.167 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:04.168 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:04.480 I/WindowManager(  751): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{8115722 V.E...... R....... 0,0-1120,835 aid=1073741824}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-23 22:58:04.480 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): null
+08-23 22:58:05.795 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@cff8842
+08-23 22:58:05.880 I/WM-WorkerWrapper(  751): Worker result SUCCESS for Work [ id=7bd02c2b-c5a9-4d74-9b3a-3f85181e9af9, tags={ sk.frodo21.reader.work.RefreshWorker } ]
+08-23 22:58:05.887 D/ConnectivityManager(  751): StackLog: [android.net.ConnectivityManager.unregisterNetworkCallback(ConnectivityManager.java:5579)] [androidx.work.impl.utils.NetworkApi21.unregisterNetworkCallbackCompat(SourceFile:10)] [androidx.work.impl.constraints.trackers.NetworkStateTracker24.stopTracking(SourceFile:17)] [androidx.compose.runtime.Recomposer$performRecompose$1$1.invoke(SourceFile:49)] [okio.Okio.awaitClose(SourceFile:107)] [kotlinx.coroutines.channels.ProduceKt$awaitClose$1.invokeSuspend(SourceFile:10)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)] [kotlinx.coroutines.DispatchedTask.run(SourceFile:104)] [androidx.work.Worker$2.run(SourceFile:223)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+08-23 22:58:08.146 D/ProfileInstaller(  751): Skipping profile installation for sk.frodo21.reader
+08-23 22:58:08.760 I/Dialog  (  751): mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+08-23 22:58:08.765 I/DecorView(  751): setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@cce3d55
+08-23 22:58:08.778 I/WindowManager(  751): WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{d5f283b V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:167 android.app.Dialog.show:544 androidx.compose.ui.window.DialogWrapper$2.invoke:9 
+08-23 22:58:08.779 D/ViewRootImpl(  751): desktopMode is false
+08-23 22:58:08.779 I/ViewRootImpl(  751): dVRR is disabled
+08-23 22:58:08.779 D/NativeCustomFrequencyManager(  751): [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+08-23 22:58:08.797 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): android.app.Dialog$$ExternalSyntheticLambda4@4d2e846
+08-23 22:58:08.797 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@cb66a07
+08-23 22:58:08.808 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:08.809 W/libc    (  751): Access denied finding property "vendor.perf.ems.egg"
+08-23 22:58:10.942 I/WindowManager(  751): WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{d5f283b V.E...... R......D 0,0-1120,835 aid=1073741825}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:254 android.app.Dialog.dismissDialog:854 
+08-23 22:58:10.942 D/WindowOnBackDispatcher(  751): setTopOnBackInvokedCallback (unwrapped): null
+08-23 22:58:13.025 W/Briefly (  751): 08-23 22:58:13.024 [update] CHYBA pokus 1 zlyhal :: IllegalStateException: neúplný súbor
+08-23 22:58:13.025 W/Briefly (  751): java.lang.IllegalStateException: neúplný súbor
+08-23 22:58:13.025 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+08-23 22:58:13.025 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadApk$2.invoke(SourceFile:12)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlin.time.DurationKt.startUndispatchedOrReturn(SourceFile:4)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlinx.coroutines.JobKt.withContext(SourceFile:73)
+08-23 22:58:13.025 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadAndInstall$1.invokeSuspend(SourceFile:71)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+08-23 22:58:13.025 W/Briefly (  751): 	at androidx.work.Worker$2.run(SourceFile:10)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+08-23 22:58:13.025 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+08-23 22:58:15.365 W/.frodo21.reader(  751): Missing inline cache for java.lang.Object sk.frodo21.reader.MainActivity$onCreate$1.invoke(java.lang.Object, java.lang.Object)
+08-23 22:58:16.124 W/Briefly (  751): 08-23 22:58:16.122 [update] CHYBA pokus 2 zlyhal :: IllegalStateException: neúplný súbor
+08-23 22:58:16.124 W/Briefly (  751): java.lang.IllegalStateException: neúplný súbor
+08-23 22:58:16.124 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+08-23 22:58:16.124 W/Briefly (  751): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+08-23 22:58:16.124 W/Briefly (  751): 	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+08-23 22:58:16.124 W/Briefly (  751): 	at androidx.work.Worker$2.run(SourceFile:10)
+08-23 22:58:16.124 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+08-23 22:58:16.124 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+08-23 22:58:21.238 W/Briefly (  751): 08-23 22:58:21.237 [update] CHYBA pokus 3 zlyhal :: IllegalStateException: neúplný súbor
+08-23 22:58:21.238 W/Briefly (  751): java.lang.IllegalStateException: neúplný súbor
+08-23 22:58:21.238 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+08-23 22:58:21.238 W/Briefly (  751): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+08-23 22:58:21.238 W/Briefly (  751): 	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+08-23 22:58:21.238 W/Briefly (  751): 	at androidx.work.Worker$2.run(SourceFile:10)
+08-23 22:58:21.238 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+08-23 22:58:21.238 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
+08-23 22:58:21.241 W/Briefly (  751): 08-23 22:58:21.241 [update] CHYBA aktualizácia zlyhala :: IllegalStateException: neúplný súbor
+08-23 22:58:21.241 W/Briefly (  751): java.lang.IllegalStateException: neúplný súbor
+08-23 22:58:21.241 W/Briefly (  751): 	at sk.frodo21.reader.update.Updater$downloadApk$2.invokeSuspend(SourceFile:220)
+08-23 22:58:21.241 W/Briefly (  751): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)
+08-23 22:58:21.241 W/Briefly (  751): 	at kotlinx.coroutines.DispatchedTask.run(SourceFile:112)
+08-23 22:58:21.241 W/Briefly (  751): 	at androidx.work.Worker$2.run(SourceFile:10)
+08-23 22:58:21.241 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:2)
+08-23 22:58:21.241 W/Briefly (  751): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:95)
