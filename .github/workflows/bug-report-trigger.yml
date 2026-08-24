@@ -1,0 +1,86 @@
+# Trigger pre hlásenia problémov s článkami → agent „bug-fixer".
+#
+# Keď appka Briefly nahrá hlásenie do priečinka bug-reports/ (cez tlačidlo
+# „Nahlásiť problém" v readeri), tento workflow sa spustí, načíta kód a agenta
+# bug-fixer zo súkromného frodo21/reader a spustí triage. Agent hlásenie
+# zanalyzuje a založí issue vo frodo21/reader pre front/back agenta.
+# PULL REQUEST NEVZNIKÁ — kód sa nemení bez dodatočného potvrdenia.
+#
+# Zdroj pravdy tohto súboru je vo frodo21/reader: automation/briefly/.
+#
+# Potrebné secrets (Settings → Secrets and variables → Actions):
+#   ANTHROPIC_API_KEY  — prístup Claude Code k API (alebo CLAUDE_CODE_OAUTH_TOKEN)
+#   READER_TOKEN       — token s prístupom na klon frodo21/reader a zakladanie
+#                        issue v ňom (fine-grained PAT: Contents:read,
+#                        Issues:read/write na frodo21/reader, alebo GitHub App)
+
+name: Hlásenie problému → bug-fixer
+
+on:
+  push:
+    paths:
+      - 'bug-reports/**'
+
+# obmedzené oprávnenia; do frodo21/reader sa píše cez READER_TOKEN, nie cez GITHUB_TOKEN
+permissions:
+  contents: read
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+      # Ktoré priečinky s hláseniami tento push pridal/zmenil — z payloadu
+      # udalosti, teda nezávisle od toho, čo máme vo working dir.
+      - name: Zisti nové hlásenia
+        id: reports
+        run: |
+          FOLDERS=$(jq -r '
+            [ (.commits // [])[].added[]?, (.commits // [])[].modified[]? ]
+            | map(select(startswith("bug-reports/")))
+            | map(sub("/[^/]+$"; ""))
+            | unique
+            | .[]
+          ' "$GITHUB_EVENT_PATH")
+          echo "Nové hlásenia:"; echo "$FOLDERS"
+          {
+            echo "folders<<EOF"
+            echo "$FOLDERS"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      # Kód appky + definícia agenta bug-fixer žijú v súkromnom frodo21/reader.
+      # Checkoutneme ho do cwd, aby sa .claude/agents/bug-fixer.md načítal a aby
+      # mal agent po ruke zdrojáky na overenie príčiny.
+      - name: Checkout frodo21/reader (kód + agent)
+        if: steps.reports.outputs.folders != ''
+        uses: actions/checkout@v4
+        with:
+          repository: frodo21/reader
+          token: ${{ secrets.READER_TOKEN }}
+
+      - name: Spusti agenta bug-fixer
+        if: steps.reports.outputs.folders != ''
+        uses: anthropics/claude-code-action@v1
+        with:
+          # Claude prístup — stačí jeden z dvojice (pozri komentár hore).
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Token s prístupom na klon frodo21/reader a zakladanie issue v ňom.
+          github_token: ${{ secrets.READER_TOKEN }}
+          prompt: |
+            Do repozitára frodo21/briefly pristáli nové hlásenia problémov s
+            článkami v týchto priečinkoch:
+
+            ${{ steps.reports.outputs.folders }}
+
+            Surové súbory každého hlásenia sú verejne dostupné na adresách
+            https://raw.githubusercontent.com/frodo21/briefly/main/<cesta>
+            (napr. .../bug-reports/<...>/report.md, page.html, screenshot.png).
+
+            Riaď sa PRESNE pokynmi v súbore .claude/agents/bug-fixer.md tohto
+            repozitára (frodo21/reader) a sprav triage každého hlásenia:
+            zanalyzuj koreňovú príčinu, rozhodni front/back a odovzdaj úlohu
+            príslušnému agentovi tak, že založíš GitHub issue v frodo21/reader.
+
+            Dôležité: NEVYTVÁRAJ pull request a NEUPRAVUJ kód. Tvoj výstup je
+            len analýza a issue s návrhom opravy.
+          claude_args: '--max-turns 40'
