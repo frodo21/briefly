@@ -1,0 +1,176 @@
+=== Briefly ===
+verzia:      0.1.122 (122)
+zariadenie:  samsung SM-S911B
+android:     16 (API 36)
+abi:         arm64-v8a, armeabi-v7a, armeabi
+RAM:         7072 MB celkom, 1977 MB voľných
+
+=== denník aplikácie ===
+08-24 14:07:15.841 [hero] ef73ef0424b8a22796d89a8de281460d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/ef73ef0424b8a22796d89a8de281460d/900.jpg obrazkov=0/0
+08-24 14:07:52.935 [hero] 29d64c30b61be52586bb6b29ccfc6a22 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/29d64c30b61be52586bb6b29ccfc6a22/900.jpeg obrazkov=0/0
+08-24 14:08:04.544 [hero] b932ccb0f5e1b94bbffe29b081335654 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/b932ccb0f5e1b94bbffe29b081335654/900.img obrazkov=1/1
+08-24 14:08:18.984 [hero] 9d999a5450f1ac5f5c622e3b32b2374d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9d999a5450f1ac5f5c622e3b32b2374d/900.jpg obrazkov=0/0
+08-24 14:08:28.364 [hero] fd76179fccaab23979bfbb8fefc8ca7c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/fd76179fccaab23979bfbb8fefc8ca7c/900.jpg obrazkov=0/0
+08-24 14:12:33.081 [hero] f3b9c3213d12141878427f5091030ef8 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/f3b9c3213d12141878427f5091030ef8/900.img obrazkov=2/2
+08-24 14:12:51.370 [hero] 5950eca3cfd5aa532fbc88765b5459a4 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/5950eca3cfd5aa532fbc88765b5459a4/900.jpg obrazkov=0/0
+08-24 14:13:00.916 [hero] be40dc8e4c1c0ff6b74d479ebf4d1f4e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/be40dc8e4c1c0ff6b74d479ebf4d1f4e/900.jpg obrazkov=0/0
+08-24 14:13:37.220 [hero] 40d62cede85299c210145b32ede37b8e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/40d62cede85299c210145b32ede37b8e/900.jpg obrazkov=0/0
+08-24 14:16:43.724 [hero] e2f4a0ee4d12c18f680e3d0b232b367f nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e2f4a0ee4d12c18f680e3d0b232b367f/900.png obrazkov=0/0
+08-24 21:11:51.688 [hero] 8a1bc6dcf32a40a3f1d30f6c002d2e6e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/8a1bc6dcf32a40a3f1d30f6c002d2e6e/900.jpg obrazkov=0/0
+08-24 22:34:36.355 [app] štart, verzia 0.1.93
+08-25 00:30:12.341 [update] stiahnuté 2 MB
+08-25 00:30:12.343 [update] inštalujem 2 MB, povolenie=true
+08-25 00:30:12.409 [update] relácia 1209148944 odovzdaná systému
+08-25 00:30:12.451 [update] výsledok inštalácie: -1
+08-25 00:30:25.558 [app] štart, verzia 0.1.107
+08-25 00:30:25.639 [update] výsledok inštalácie: 0
+08-25 00:30:25.642 [update] zmazaný balík briefly-107.apk
+08-25 00:30:32.207 [hero] dcb0e447a51e8216856a4d48aa6aa4ce nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/dcb0e447a51e8216856a4d48aa6aa4ce/900.jpg obrazkov=0/0
+08-25 00:30:48.855 [hero] 753b7f760c0ff03e530800310a5a5b3b nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/753b7f760c0ff03e530800310a5a5b3b/900.jpg obrazkov=1/1
+08-25 00:30:58.678 [hero] 9eaca2701a85b11d19da9bd22b3d6d99 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9eaca2701a85b11d19da9bd22b3d6d99/900.jpg obrazkov=0/0
+08-25 00:31:07.913 [hero] e4bc31cc824ea50bf97bbe4a054bc3e8 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e4bc31cc824ea50bf97bbe4a054bc3e8/900.jpg obrazkov=0/0
+08-25 10:57:55.134 [update] fetchTo HTTP 200, mal=0, resuming=false, Content-Length=3152560, očakávaný súčet=3152560
+08-25 10:57:55.621 [update] stiahnuté 3 MB
+08-25 10:57:55.621 [update] inštalujem 3 MB, povolenie=true
+08-25 10:57:55.719 [update] relácia 1635768641 odovzdaná systému
+08-25 10:57:55.751 [update] výsledok inštalácie: -1
+08-25 10:58:07.878 [update] balík už je stiahnutý, preskakujem
+08-25 10:58:07.878 [update] inštalujem 3 MB, povolenie=true
+08-25 10:58:07.920 [update] relácia 851700783 odovzdaná systému
+08-25 10:58:07.934 [update] výsledok inštalácie: -1
+08-25 10:58:16.394 [app] štart, verzia 0.1.120
+08-25 10:58:16.508 [update] výsledok inštalácie: 0
+08-25 10:58:16.525 [update] zmazaný balík briefly-120.apk
+08-25 10:58:32.328 [app] štart, verzia 0.1.120
+08-25 10:58:32.430 [update] výsledok inštalácie: 0
+08-25 12:01:06.592 [app] štart, verzia 0.1.120
+08-25 12:01:09.252 [app] štart, verzia 0.1.120
+08-25 12:01:15.130 [hero] c644bfbad6cdab9e438f4a3379489f4d nahlad je uz v tele clanku
+08-25 12:01:15.131 [hero] c644bfbad6cdab9e438f4a3379489f4d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/c644bfbad6cdab9e438f4a3379489f4d/0.jpg obrazkov=3/3
+08-25 12:01:15.144 [extract] c644bfbad6cdab9e438f4a3379489f4d kvalita=FULL headless=false
+08-25 12:01:30.545 [hero] 3431e1766fc6e9a7cb7a5c4a120664da nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/3431e1766fc6e9a7cb7a5c4a120664da/900.img obrazkov=5/5
+08-25 12:01:30.560 [extract] 3431e1766fc6e9a7cb7a5c4a120664da kvalita=FULL headless=false
+08-25 12:01:38.955 [hero] 7955d24c50167219ca41aa27cf55dcd9 nahlad je uz v tele clanku
+08-25 12:01:38.955 [hero] 7955d24c50167219ca41aa27cf55dcd9 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/7955d24c50167219ca41aa27cf55dcd9/0.jpg obrazkov=2/2
+08-25 12:01:38.967 [extract] 7955d24c50167219ca41aa27cf55dcd9 kvalita=FULL headless=false
+08-25 12:02:53.839 [hero] fe6911ea72c2e522ae7be9966d9b9d4e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/fe6911ea72c2e522ae7be9966d9b9d4e/900.jpg obrazkov=0/0
+08-25 12:02:53.853 [extract] fe6911ea72c2e522ae7be9966d9b9d4e kvalita=FULL headless=false
+08-25 22:29:03.162 [app] štart, verzia 0.1.120
+08-25 22:29:06.505 [update] fetchTo HTTP 200, mal=0, resuming=false, Content-Length=3152560, očakávaný súčet=3152560
+08-25 22:29:06.845 [update] stiahnuté 3 MB
+08-25 22:29:06.846 [update] inštalujem 3 MB, povolenie=true
+08-25 22:29:06.952 [update] relácia 52891636 odovzdaná systému
+08-25 22:29:06.983 [update] výsledok inštalácie: -1
+08-25 22:29:20.295 [app] štart, verzia 0.1.122
+08-25 22:29:20.341 [update] výsledok inštalácie: 0
+08-25 22:29:20.343 [update] zmazaný balík briefly-122.apk
+08-25 22:29:30.799 [hero] dbe08863077e1fc2516b75112e7ba5b0 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/dbe08863077e1fc2516b75112e7ba5b0/900.jpeg obrazkov=1/1
+08-25 22:29:30.819 [extract] dbe08863077e1fc2516b75112e7ba5b0 kvalita=FULL headless=false
+08-25 22:29:40.166 [hero] 342204fd112cc840685b1ca6ca0662a2 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/342204fd112cc840685b1ca6ca0662a2/900.jpg obrazkov=0/0
+08-25 22:29:40.186 [extract] 342204fd112cc840685b1ca6ca0662a2 kvalita=FULL headless=false
+08-25 22:29:46.487 [hero] 53455752e9f437aeec462fff721a996b nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/53455752e9f437aeec462fff721a996b/900.png obrazkov=0/0
+08-25 22:29:46.496 [extract] 53455752e9f437aeec462fff721a996b kvalita=FULL headless=false
+08-25 22:30:07.016 [hero] 8153913f2f804c2c8ec6deed22d4b079 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/8153913f2f804c2c8ec6deed22d4b079/900.img obrazkov=6/6
+08-25 22:30:07.063 [extract] 8153913f2f804c2c8ec6deed22d4b079 kvalita=FULL headless=false
+08-25 22:30:15.774 [hero] e50d6d5b267a37917cabc4d78d71e16d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e50d6d5b267a37917cabc4d78d71e16d/900.jpg obrazkov=1/1
+08-25 22:30:15.790 [extract] e50d6d5b267a37917cabc4d78d71e16d kvalita=FULL headless=false
+08-25 22:30:28.825 [hero] a354bc0263cb832acc8da48b83971bf4 nahlad je uz v tele clanku
+08-25 22:30:28.825 [hero] a354bc0263cb832acc8da48b83971bf4 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/a354bc0263cb832acc8da48b83971bf4/0.jpg obrazkov=1/1
+08-25 22:30:28.830 [extract] a354bc0263cb832acc8da48b83971bf4 kvalita=FULL headless=false
+08-26 20:57:27.858 [hero] b20c3f28d3eafc0a406d32a55296f5cd nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/b20c3f28d3eafc0a406d32a55296f5cd/900.jpg obrazkov=0/0
+08-26 20:57:27.871 [extract] b20c3f28d3eafc0a406d32a55296f5cd kvalita=FULL headless=false
+08-26 20:57:49.189 [hero] 1703bd14f98ba1edd0fca1067434a83c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/1703bd14f98ba1edd0fca1067434a83c/900.jpg obrazkov=0/0
+08-26 20:57:49.201 [extract] 1703bd14f98ba1edd0fca1067434a83c kvalita=FULL headless=false
+08-26 20:57:56.917 [hero] abcc848b8f13e130dea0ebcd3dd13b65 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/abcc848b8f13e130dea0ebcd3dd13b65/900.jpg obrazkov=0/0
+08-26 20:57:56.932 [extract] abcc848b8f13e130dea0ebcd3dd13b65 kvalita=FULL headless=false
+08-26 22:10:55.241 [hero] 15ee7900f7af0707bee486c4ccdd3d8f nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/15ee7900f7af0707bee486c4ccdd3d8f/900.jpg obrazkov=0/0
+08-26 22:10:55.253 [extract] 15ee7900f7af0707bee486c4ccdd3d8f kvalita=PARTIAL headless=false
+08-26 22:11:01.942 [hero] 1ac9fef4b387770baa9b13f2d8f4cd17 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/1ac9fef4b387770baa9b13f2d8f4cd17/900.jpeg obrazkov=0/0
+08-26 22:11:01.954 [extract] 1ac9fef4b387770baa9b13f2d8f4cd17 kvalita=FULL headless=false
+08-26 22:11:04.591 [hero] e2111c9531ff15b5e0b6c6c59abb04af nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e2111c9531ff15b5e0b6c6c59abb04af/900.jpeg obrazkov=0/0
+08-26 22:11:04.603 [extract] e2111c9531ff15b5e0b6c6c59abb04af kvalita=PAYWALL headless=false
+08-26 22:11:24.406 [hero] 90cfdd0395998e0e5874861dbe2cd226 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/90cfdd0395998e0e5874861dbe2cd226/900.png obrazkov=0/0
+08-26 22:11:24.414 [extract] 90cfdd0395998e0e5874861dbe2cd226 kvalita=FULL headless=false
+08-27 00:38:45.102 [hero] 620cb1dcff1c77c23e19ef59a7222b35 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/620cb1dcff1c77c23e19ef59a7222b35/900.jpg obrazkov=0/0
+08-27 00:38:45.122 [extract] 620cb1dcff1c77c23e19ef59a7222b35 kvalita=FULL headless=false
+08-27 00:39:04.546 [hero] 5645c65e06b3474358b86bce5a742954 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/5645c65e06b3474358b86bce5a742954/900.jpg obrazkov=0/0
+08-27 00:39:04.595 [extract] 5645c65e06b3474358b86bce5a742954 kvalita=FULL headless=false
+08-27 00:39:11.138 [hero] 737a85f971a83ca6bd3ba09c875523fc nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/737a85f971a83ca6bd3ba09c875523fc/900.jpeg obrazkov=0/0
+08-27 00:39:11.164 [extract] 737a85f971a83ca6bd3ba09c875523fc kvalita=FULL headless=false
+08-27 00:39:41.119 [hero] 4f7dece80c4587433cdfd4a9702b0f76 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/4f7dece80c4587433cdfd4a9702b0f76/900.jpeg obrazkov=0/0
+08-27 00:39:41.168 [extract] 4f7dece80c4587433cdfd4a9702b0f76 kvalita=FULL headless=false
+08-27 00:39:49.217 [hero] 9377aad4d0c3ed63aecff5178b1a1224 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9377aad4d0c3ed63aecff5178b1a1224/900.png obrazkov=0/0
+08-27 00:39:49.231 [extract] 9377aad4d0c3ed63aecff5178b1a1224 kvalita=FULL headless=false
+08-27 00:40:30.553 [hero] e23c73627df22c49d73a0f63e180a832 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e23c73627df22c49d73a0f63e180a832/900.jpg obrazkov=0/0
+08-27 00:40:30.569 [extract] e23c73627df22c49d73a0f63e180a832 kvalita=FULL headless=false
+08-27 08:06:57.392 [app] štart, verzia 0.1.122
+08-27 08:07:21.638 [hero] 229a904a505fd78ce98796c00574ecf6 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/229a904a505fd78ce98796c00574ecf6/900.jpg obrazkov=0/0
+08-27 08:07:21.653 [extract] 229a904a505fd78ce98796c00574ecf6 kvalita=FULL headless=false
+08-27 08:07:28.904 [hero] 86edb5b0e5e1acb206f9ce000690e32c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/86edb5b0e5e1acb206f9ce000690e32c/900.jpg obrazkov=0/0
+08-27 08:07:28.922 [extract] 86edb5b0e5e1acb206f9ce000690e32c kvalita=FULL headless=false
+08-27 08:07:42.335 [hero] d3363a82bcce8e0ecb2380c674a7ea57 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/d3363a82bcce8e0ecb2380c674a7ea57/900.jpg obrazkov=0/0
+08-27 08:07:42.349 [extract] d3363a82bcce8e0ecb2380c674a7ea57 kvalita=FULL headless=false
+08-27 08:07:50.396 [hero] 141938a152f2e9ad4e362a6d7aaed8b6 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/141938a152f2e9ad4e362a6d7aaed8b6/900.jpg obrazkov=0/0
+08-27 08:07:50.410 [extract] 141938a152f2e9ad4e362a6d7aaed8b6 kvalita=FULL headless=false
+08-27 08:07:57.131 [hero] 55ba4bfc4cb4344acb759bcbd64ecec0 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/55ba4bfc4cb4344acb759bcbd64ecec0/900.jfif obrazkov=0/0
+08-27 08:07:57.142 [extract] 55ba4bfc4cb4344acb759bcbd64ecec0 kvalita=FULL headless=false
+08-27 08:09:11.062 [hero] 62f6ba7c9b1baea7413edc286cdb0889 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/62f6ba7c9b1baea7413edc286cdb0889/900.img obrazkov=1/1
+08-27 08:09:11.078 [extract] 62f6ba7c9b1baea7413edc286cdb0889 kvalita=FULL headless=false
+08-27 08:09:35.273 [hero] 35aaabfba6e0acd30a155369584d8a14 nahlad je uz v tele clanku
+08-27 08:09:35.274 [hero] 35aaabfba6e0acd30a155369584d8a14 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/35aaabfba6e0acd30a155369584d8a14/0.jpg obrazkov=1/2
+08-27 08:09:35.308 [extract] 35aaabfba6e0acd30a155369584d8a14 kvalita=FULL headless=false
+08-27 08:09:51.387 [hero] 1ffac59b66dc889ab78ee6d8cd3418b4 nahlad je uz v tele clanku
+08-27 08:09:51.388 [hero] 1ffac59b66dc889ab78ee6d8cd3418b4 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/1ffac59b66dc889ab78ee6d8cd3418b4/0.jpg obrazkov=1/2
+08-27 08:09:51.402 [extract] 1ffac59b66dc889ab78ee6d8cd3418b4 kvalita=FULL headless=false
+08-27 08:10:08.165 [hero] e341dba4e709886a81fdac4d70307723 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e341dba4e709886a81fdac4d70307723/900.jpg obrazkov=0/0
+08-27 08:10:08.178 [extract] e341dba4e709886a81fdac4d70307723 kvalita=FULL headless=false
+08-27 08:13:13.150 [zdroje] odhlasene 47eff9672d4decb92f98627ce2b90188, zmazanych clankov 0
+08-27 09:02:44.252 [hero] 9c1be11bfa6dd9900ec9e756a0142c71 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9c1be11bfa6dd9900ec9e756a0142c71/900.jpg obrazkov=0/0
+08-27 09:02:44.273 [extract] 9c1be11bfa6dd9900ec9e756a0142c71 kvalita=FULL headless=false
+08-27 09:03:02.865 [hero] 561c5a0d5da7ff161682318d51156d9b nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/561c5a0d5da7ff161682318d51156d9b/900.jpg obrazkov=0/0
+08-27 09:03:02.880 [extract] 561c5a0d5da7ff161682318d51156d9b kvalita=FULL headless=false
+08-27 09:03:06.019 [hero] d652dc60d7cb954cc0ebebf96cb26678 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/d652dc60d7cb954cc0ebebf96cb26678/900.jpg obrazkov=0/0
+08-27 09:03:06.027 [extract] d652dc60d7cb954cc0ebebf96cb26678 kvalita=FULL headless=false
+08-27 09:03:12.873 [hero] 7e1d9f104248c16775d41d93befe5ac9 nahlad je uz v tele clanku
+08-27 09:03:12.873 [hero] 7e1d9f104248c16775d41d93befe5ac9 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/7e1d9f104248c16775d41d93befe5ac9/0.jpg obrazkov=1/2
+08-27 09:03:12.889 [extract] 7e1d9f104248c16775d41d93befe5ac9 kvalita=FULL headless=false
+08-27 09:03:26.308 [hero] 74d8a0f1eb1e602c389f3a6d172eda28 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/74d8a0f1eb1e602c389f3a6d172eda28/900.jpg obrazkov=0/0
+08-27 09:03:26.322 [extract] 74d8a0f1eb1e602c389f3a6d172eda28 kvalita=FULL headless=false
+08-27 12:25:46.411 [app] štart, verzia 0.1.122
+
+
+=== logcat ===
+--------- beginning of main
+08-27 12:25:46.335 I/Zygote  (28162): Process 28162 created for sk.frodo21.reader
+08-27 12:25:46.335 I/.frodo21.reader(28162): Using generational CollectorTypeCMC GC.
+08-27 12:25:46.343 D/nativeloader(28162): Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+08-27 12:25:46.346 D/ActivityThread(28162): setConscryptValidator
+08-27 12:25:46.346 D/ActivityThread(28162): setConscryptValidator - put
+08-27 12:25:46.385 D/nativeloader(28162): Configuring clns-9 for other apk /data/app/~~h64mO7krLtOyHbY0YGpWLQ==/sk.frodo21.reader-n7w7tSW9nCuX8vvPPhu4Mg==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~h64mO7krLtOyHbY0YGpWLQ==/sk.frodo21.reader-n7w7tSW9nCuX8vvPPhu4Mg==/lib/arm64:/data/app/~~h64mO7krLtOyHbY0YGpWLQ==/sk.frodo21.reader-n7w7tSW9nCuX8vvPPhu4Mg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/sk.frodo21.reader
+08-27 12:25:46.393 V/GraphicsEnvironment(28162): Currently set values for:
+08-27 12:25:46.393 V/GraphicsEnvironment(28162):   angle_gl_driver_selection_pkgs=[]
+08-27 12:25:46.393 V/GraphicsEnvironment(28162):   angle_gl_driver_selection_values=[]
+08-27 12:25:46.393 V/GraphicsEnvironment(28162): sk.frodo21.reader is not listed in per-application setting
+08-27 12:25:46.393 V/GraphicsEnvironment(28162): ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+08-27 12:25:46.393 V/GraphicsEnvironment(28162): No special selections for ANGLE, returning default driver choice
+08-27 12:25:46.393 V/GraphicsEnvironment(28162): App is not on the allowlist for updatable production driver.
+08-27 12:25:46.397 D/WM-WrkMgrInitializer(28162): Initializing WorkManager with default configuration.
+08-27 12:25:46.401 D/WM-PackageManagerHelper(28162): Skipping component enablement for androidx.work.impl.background.systemjob.SystemJobService
+08-27 12:25:46.401 D/WM-Schedulers(28162): Created SystemJobScheduler and enabled SystemJobService
+08-27 12:25:46.414 E/ashmem  (28162): Pinning is deprecated since Android Q. Please use trim or other methods.
+--------- beginning of system
+08-27 12:25:46.421 D/ActivityThread(28162): sk.frodo21.reader will use render engine as VK
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): QUALCOMM build                   : 3df4c357f0, I515341007c
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Build Date                       : 01/27/26
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): OpenGL ES Shader Compiler Version: E031.41.03.64
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Local Branch                     : 
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.13.2.0.11.00.00.856.062
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Remote Branch                    : NONE
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Reconstruct Branch               : NOTHING
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Build Config                     : S P 14.1.4 AArch64
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+08-27 12:25:46.426 I/AdrenoGLES-0(28162): Driver Version                   : 0676.77.1
+08-27 12:25:46.429 D/DesktopExperienceFlags(28162): Toggle override initialized to: false
+08-27 12:25:46.434 I/AdrenoGLES-0(28162): PFP: 0x01740181, ME: 0x00000000
+08-27 12:25:46.437 W/Adreno-AppProfiles(28162): Could not find QSPM HAL service. Skipping adreno profile processing.
+08-27 12:25:46.438 I/AdrenoUtils(28162): <ReadGpuID:407>: Reading chip ID through GSL
