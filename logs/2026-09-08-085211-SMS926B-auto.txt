@@ -1,0 +1,205 @@
+=== Briefly ===
+verzia:      0.1.122 (122)
+zariadenie:  samsung SM-S926B
+android:     16 (API 36)
+abi:         arm64-v8a
+RAM:         11203 MB celkom, 2787 MB voľných
+
+=== denník aplikácie ===
+08-27 22:06:56.992 [logy] odoslané ako 2026-08-27-220654-SMS926B-auto.txt
+08-27 22:39:38.292 [app] štart, verzia 0.1.122
+08-28 07:20:09.020 [app] štart, verzia 0.1.122
+08-28 08:55:19.631 [odkaz] rucne otvoreny https://www.techbyte.sk/2026/08/predavatae-vinted-bazos-instagram-financna-sprava-vie-zistit-zarobili
+08-28 08:55:20.023 [hero] f0c3fa194641ae1119adae7b688f909e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/f0c3fa194641ae1119adae7b688f909e/900.jpg obrazkov=0/0
+08-28 08:55:20.027 [extract] f0c3fa194641ae1119adae7b688f909e kvalita=FULL headless=false
+08-28 08:55:20.342 [nahlad] dotiahnutych 13 nahladov z 13 clankov
+08-28 08:55:21.239 [zhrnutie] spúšťam: GEMINI, kľúč 53 znakov, model gemini-3.1-flash-lite
+08-28 08:55:25.470 [zhrnutie] gemini odpovedal za 4231 ms
+08-28 08:55:25.639 [nahlad] dotiahnutych 7 nahladov z 7 clankov
+08-28 10:32:23.951 [nahlad] dotiahnutych 10 nahladov z 10 clankov
+08-28 16:25:34.593 [app] štart, verzia 0.1.122
+08-28 16:55:44.796 [app] štart, verzia 0.1.122
+08-28 18:10:11.775 [nahlad] dotiahnutych 7 nahladov z 7 clankov
+08-28 19:43:08.861 [nahlad] dotiahnutych 5 nahladov z 5 clankov
+08-28 19:43:31.822 [extract] 2bb2fa1c74f154e31ac6b078146fa1af google news -> nepodarilo sa rozuzlit, ostava povodny odkaz
+08-28 19:43:34.921 [headless] presmerovanie news.google.com -> www.sme.sk
+08-28 19:43:36.815 [extract] 2bb2fa1c74f154e31ac6b078146fa1af meta_only: bez konkretneho dovodu
+08-28 19:43:55.085 [extract] 98e9346df735ff3347320328ae0dc5c8 google news -> nepodarilo sa rozuzlit, ostava povodny odkaz
+08-28 19:44:27.368 [extract] 98e9346df735ff3347320328ae0dc5c8 meta_only: bez konkretneho dovodu
+08-28 19:44:35.030 [hlásenie] problém odoslaný do bug-reports/2026-08-28-194430-SMS926B
+08-29 11:24:55.188 [hero] 2d4dad9da2d6d31f95de0f6ccac33e07 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/2d4dad9da2d6d31f95de0f6ccac33e07/900.jpg obrazkov=0/0
+08-29 11:24:55.199 [extract] 2d4dad9da2d6d31f95de0f6ccac33e07 kvalita=FULL headless=false
+08-29 11:24:55.202 [nahlad] 2d4dad9da2d6d31f95de0f6ccac33e07 doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/2d4dad9da2d6d31f95de0f6ccac33e07/900.jpg
+08-29 11:24:56.817 [nahlad] dotiahnutych 13 nahladov z 13 clankov
+08-29 20:11:01.790 [odkaz] rucne otvoreny https://fontech.startitup.sk/porsche-odmieta-pochovat-manual-tri-pedale-preda-kym-ich-nezakazu
+08-29 20:11:02.103 [hero] ea9b1cf04f5603db48c1529c640b452b nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/ea9b1cf04f5603db48c1529c640b452b/900.jpg obrazkov=0/0
+08-29 20:11:02.112 [extract] ea9b1cf04f5603db48c1529c640b452b kvalita=FULL headless=false
+08-29 20:11:02.115 [nahlad] ea9b1cf04f5603db48c1529c640b452b doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/ea9b1cf04f5603db48c1529c640b452b/900.jpg
+08-29 20:11:44.279 [extract] aa7940ba1a6bcd357ba8134146e7a72b google news -> nepodarilo sa rozuzlit, ostava povodny odkaz
+08-29 20:11:50.275 [extract] be400b486ce2d86ea551446ba9ca4a05 google news -> nepodarilo sa rozuzlit, ostava povodny odkaz
+08-29 20:11:52.593 [headless] presmerovanie news.google.com -> www.sme.sk
+08-29 20:11:54.608 [hero] be400b486ce2d86ea551446ba9ca4a05 nahlad je uz v tele clanku
+08-29 20:11:54.608 [hero] be400b486ce2d86ea551446ba9ca4a05 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/be400b486ce2d86ea551446ba9ca4a05/0.jpg obrazkov=1/1
+08-29 20:11:54.618 [extract] be400b486ce2d86ea551446ba9ca4a05 kvalita=FULL headless=true
+08-29 20:11:54.621 [nahlad] be400b486ce2d86ea551446ba9ca4a05 doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/be400b486ce2d86ea551446ba9ca4a05/0.jpg
+08-29 20:12:16.536 [extract] aa7940ba1a6bcd357ba8134146e7a72b meta_only: bez konkretneho dovodu
+08-29 20:12:22.549 [zhrnutie] spúšťam: GEMINI, kľúč 53 znakov, model gemini-3.1-flash-lite
+08-29 20:12:25.601 [zhrnutie] gemini odpovedal za 3050 ms
+08-29 20:12:58.846 [hero] 0478b021fbbec3bad502141c8e09b016 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/0478b021fbbec3bad502141c8e09b016/900.jpg obrazkov=0/0
+08-29 20:12:58.858 [extract] 0478b021fbbec3bad502141c8e09b016 kvalita=FULL headless=false
+08-29 21:37:16.760 [app] štart, verzia 0.1.122
+08-30 07:20:04.482 [app] štart, verzia 0.1.122
+08-30 07:50:23.787 [app] štart, verzia 0.1.122
+08-30 12:20:00.767 [nahlad] dotiahnutych 14 nahladov z 14 clankov
+08-30 12:20:39.903 [hero] 59fd0a2359ecb1da6e2e98aecab23155 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/59fd0a2359ecb1da6e2e98aecab23155/900.jpg obrazkov=0/0
+08-30 12:20:39.917 [extract] 59fd0a2359ecb1da6e2e98aecab23155 kvalita=FULL headless=false
+08-30 12:21:50.341 [hero] cd02de831388758570d75401851e2d4a nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/cd02de831388758570d75401851e2d4a/900.img obrazkov=0/0
+08-30 12:21:50.354 [extract] cd02de831388758570d75401851e2d4a kvalita=FULL headless=false
+08-30 12:23:58.053 [hero] eec050675ea143630c6aca39e734f1f9 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/eec050675ea143630c6aca39e734f1f9/900.img obrazkov=0/0
+08-30 12:23:58.064 [extract] eec050675ea143630c6aca39e734f1f9 kvalita=FULL headless=false
+08-30 12:23:58.071 [nahlad] eec050675ea143630c6aca39e734f1f9 doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/eec050675ea143630c6aca39e734f1f9/900.img
+08-30 12:24:01.554 [hero] 94e587a1e10ef321d0be57a764ce41ee nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/94e587a1e10ef321d0be57a764ce41ee/900.img obrazkov=0/0
+08-30 12:24:01.565 [extract] 94e587a1e10ef321d0be57a764ce41ee kvalita=FULL headless=false
+08-30 12:24:01.576 [nahlad] 94e587a1e10ef321d0be57a764ce41ee doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/94e587a1e10ef321d0be57a764ce41ee/900.img
+08-30 17:05:05.369 [odkaz] rucne otvoreny https://fontech.startitup.sk/cinsky-tajny-ostrov-vojensky-ucel-heliport-bombarder-experti
+08-30 17:05:05.680 [hero] d6c66161bd22fdc44cb8cb8d2af1068c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/d6c66161bd22fdc44cb8cb8d2af1068c/900.jpg obrazkov=0/0
+08-30 17:05:05.686 [extract] d6c66161bd22fdc44cb8cb8d2af1068c kvalita=FULL headless=false
+08-30 17:05:05.688 [nahlad] d6c66161bd22fdc44cb8cb8d2af1068c doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/d6c66161bd22fdc44cb8cb8d2af1068c/900.jpg
+08-30 17:05:07.113 [zhrnutie] spúšťam: GEMINI, kľúč 53 znakov, model gemini-3.1-flash-lite
+08-30 17:05:10.228 [zhrnutie] gemini odpovedal za 3112 ms
+08-31 06:11:23.441 [app] štart, verzia 0.1.122
+08-31 07:21:40.174 [app] štart, verzia 0.1.122
+08-31 08:14:11.637 [app] štart, verzia 0.1.122
+08-31 08:46:06.526 [app] štart, verzia 0.1.122
+08-31 09:37:34.768 [app] štart, verzia 0.1.122
+08-31 10:39:14.623 [app] štart, verzia 0.1.122
+08-31 11:09:36.946 [app] štart, verzia 0.1.122
+08-31 13:36:15.703 [app] štart, verzia 0.1.122
+08-31 14:35:42.326 [app] štart, verzia 0.1.122
+08-31 19:19:03.305 [app] štart, verzia 0.1.122
+08-31 19:41:30.032 [app] štart, verzia 0.1.122
+08-31 20:25:03.955 [app] štart, verzia 0.1.122
+08-31 20:55:17.826 [app] štart, verzia 0.1.122
+08-31 21:25:54.163 [app] štart, verzia 0.1.122
+08-31 21:29:27.573 [app] štart, verzia 0.1.122
+08-31 21:56:49.532 [app] štart, verzia 0.1.122
+09-01 05:54:00.685 [app] štart, verzia 0.1.122
+09-01 07:18:31.767 [app] štart, verzia 0.1.122
+09-01 08:25:36.321 [app] štart, verzia 0.1.122
+09-01 09:51:28.290 [app] štart, verzia 0.1.122
+09-01 10:52:30.613 [app] štart, verzia 0.1.122
+09-01 11:10:48.136 [app] štart, verzia 0.1.122
+09-01 11:54:44.204 [app] štart, verzia 0.1.122
+09-01 12:17:53.717 [app] štart, verzia 0.1.122
+09-01 12:48:00.198 [app] štart, verzia 0.1.122
+09-01 13:21:00.678 [app] štart, verzia 0.1.122
+09-01 14:39:41.714 [app] štart, verzia 0.1.122
+09-01 20:00:58.074 [app] štart, verzia 0.1.122
+09-01 20:24:56.717 [app] štart, verzia 0.1.122
+09-01 21:13:33.576 [app] štart, verzia 0.1.122
+09-01 22:18:55.094 [app] štart, verzia 0.1.122
+09-02 08:18:47.285 [app] štart, verzia 0.1.122
+09-02 08:52:03.380 [app] štart, verzia 0.1.122
+09-02 09:23:00.410 [app] štart, verzia 0.1.122
+09-02 11:11:04.855 [app] štart, verzia 0.1.122
+09-02 12:21:28.154 [app] štart, verzia 0.1.122
+09-02 14:36:09.606 [app] štart, verzia 0.1.122
+09-02 14:58:28.702 [app] štart, verzia 0.1.122
+09-02 15:33:02.987 [app] štart, verzia 0.1.122
+09-02 16:47:07.312 [app] štart, verzia 0.1.122
+09-02 17:23:03.259 [app] štart, verzia 0.1.122
+09-02 20:25:03.285 [app] štart, verzia 0.1.122
+09-02 20:55:32.323 [app] štart, verzia 0.1.122
+09-02 21:00:38.388 [odkaz] rucne otvoreny https://www.imeteo.sk/spravy/extrem-aky-sme-tu-od-roku-1991-nemali-preco-bolo-leto-2026-v-europe-take-horuce
+09-02 21:00:39.145 [nahlad] dotiahnutych 8 nahladov z 8 clankov
+09-02 21:00:39.203 [hero] 404aeb6e1c8d3e886aacefd77a01987e nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/404aeb6e1c8d3e886aacefd77a01987e/900.png obrazkov=1/1
+09-02 21:00:39.207 [extract] 404aeb6e1c8d3e886aacefd77a01987e kvalita=FULL headless=false
+09-02 21:00:39.211 [nahlad] 404aeb6e1c8d3e886aacefd77a01987e doplneny nahlad file:///data/user/0/sk.frodo21.reader/files/articles/404aeb6e1c8d3e886aacefd77a01987e/900.png
+09-02 21:00:41.614 [zhrnutie] spúšťam: GEMINI, kľúč 53 znakov, model gemini-3.1-flash-lite
+09-02 21:00:47.298 [zhrnutie] gemini odpovedal za 5683 ms
+09-02 21:25:13.023 [app] štart, verzia 0.1.122
+09-02 21:26:30.145 [app] štart, verzia 0.1.122
+09-02 21:57:39.593 [app] štart, verzia 0.1.122
+09-02 22:27:50.492 [app] štart, verzia 0.1.122
+09-03 05:53:50.339 [app] štart, verzia 0.1.122
+09-03 05:53:51.609 [nahlad] dotiahnutych 6 nahladov z 6 clankov
+09-03 05:54:43.485 [extract] 5ef965e73482954f1b73d0e198beda44 google news -> nepodarilo sa rozuzlit, ostava povodny odkaz
+09-03 05:55:29.630 [headless] presmerovanie news.google.com -> news.google.com
+09-03 05:55:31.708 [extract] 5ef965e73482954f1b73d0e198beda44 meta_only: bez konkretneho dovodu
+09-03 17:34:39.405 [app] štart, verzia 0.1.122
+09-03 18:07:00.194 [app] štart, verzia 0.1.122
+09-03 18:41:52.928 [app] štart, verzia 0.1.122
+09-03 19:17:32.170 [app] štart, verzia 0.1.122
+09-03 20:22:40.745 [app] štart, verzia 0.1.122
+09-03 20:58:46.915 [app] štart, verzia 0.1.122
+09-03 21:23:01.910 [app] štart, verzia 0.1.122
+09-03 21:50:04.449 [app] štart, verzia 0.1.122
+09-04 09:35:47.712 [app] štart, verzia 0.1.122
+09-04 09:54:34.445 [app] štart, verzia 0.1.122
+09-04 10:22:50.744 [app] štart, verzia 0.1.122
+09-04 10:59:57.243 [app] štart, verzia 0.1.122
+09-04 12:13:50.157 [app] štart, verzia 0.1.122
+09-04 14:10:01.502 [app] štart, verzia 0.1.122
+09-04 17:11:12.376 [app] štart, verzia 0.1.122
+09-04 17:45:57.479 [app] štart, verzia 0.1.122
+09-04 18:16:12.373 [app] štart, verzia 0.1.122
+09-04 18:54:24.972 [app] štart, verzia 0.1.122
+09-04 19:32:48.833 [app] štart, verzia 0.1.122
+09-05 03:25:16.359 [app] štart, verzia 0.1.122
+09-05 10:55:54.646 [app] štart, verzia 0.1.122
+09-05 10:56:22.111 [app] štart, verzia 0.1.122
+09-05 11:26:31.459 [app] štart, verzia 0.1.122
+09-05 14:19:44.747 [app] štart, verzia 0.1.122
+09-05 16:56:17.314 [app] štart, verzia 0.1.122
+09-05 19:52:25.896 [app] štart, verzia 0.1.122
+09-05 20:54:39.092 [app] štart, verzia 0.1.122
+09-06 07:20:20.455 [app] štart, verzia 0.1.122
+09-06 16:56:29.001 [app] štart, verzia 0.1.122
+09-06 19:24:13.840 [app] štart, verzia 0.1.122
+09-06 20:55:15.364 [app] štart, verzia 0.1.122
+09-06 22:00:26.599 [app] štart, verzia 0.1.122
+09-07 09:27:01.667 [app] štart, verzia 0.1.122
+09-07 09:28:59.113 [app] štart, verzia 0.1.122
+09-07 10:43:26.877 [app] štart, verzia 0.1.122
+09-07 13:18:52.791 [app] štart, verzia 0.1.122
+09-07 13:27:14.651 [app] štart, verzia 0.1.122
+09-07 13:50:03.126 [app] štart, verzia 0.1.122
+09-07 15:42:40.996 [app] štart, verzia 0.1.122
+09-07 16:02:42.721 [app] štart, verzia 0.1.122
+09-07 16:40:24.349 [app] štart, verzia 0.1.122
+09-07 17:10:41.817 [app] štart, verzia 0.1.122
+09-07 20:36:54.133 [app] štart, verzia 0.1.122
+09-07 21:08:00.218 [app] štart, verzia 0.1.122
+09-07 21:38:16.524 [app] štart, verzia 0.1.122
+09-07 22:15:50.073 [app] štart, verzia 0.1.122
+09-08 07:06:48.322 [app] štart, verzia 0.1.122
+09-08 08:21:31.343 [app] štart, verzia 0.1.122
+09-08 08:52:11.560 [app] štart, verzia 0.1.122
+
+
+=== logcat ===
+--------- beginning of main
+09-08 08:52:11.482 I/Zygote  (29659): Process 29659 created for sk.frodo21.reader
+09-08 08:52:11.482 I/.frodo21.reader(29659): Using generational CollectorTypeCMC GC.
+09-08 08:52:11.488 D/nativeloader(29659): Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-08 08:52:11.490 D/ActivityThread(29659): setConscryptValidator
+09-08 08:52:11.490 D/ActivityThread(29659): setConscryptValidator - put
+09-08 08:52:11.521 D/nativeloader(29659): Configuring clns-9 for other apk /data/app/~~MxAPt486_QbcKMkECj3V9A==/sk.frodo21.reader-r2AdurBy_rFTj9K7YCPYWw==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~MxAPt486_QbcKMkECj3V9A==/sk.frodo21.reader-r2AdurBy_rFTj9K7YCPYWw==/lib/arm64:/data/app/~~MxAPt486_QbcKMkECj3V9A==/sk.frodo21.reader-r2AdurBy_rFTj9K7YCPYWw==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/sk.frodo21.reader
+09-08 08:52:11.531 V/GraphicsEnvironment(29659): Currently set values for:
+09-08 08:52:11.531 V/GraphicsEnvironment(29659):   angle_gl_driver_selection_pkgs=[]
+09-08 08:52:11.531 V/GraphicsEnvironment(29659):   angle_gl_driver_selection_values=[]
+09-08 08:52:11.531 V/GraphicsEnvironment(29659): sk.frodo21.reader is not listed in per-application setting
+09-08 08:52:11.531 V/GraphicsEnvironment(29659): ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+09-08 08:52:11.531 V/GraphicsEnvironment(29659): No special selections for ANGLE, returning default driver choice
+09-08 08:52:11.531 V/GraphicsEnvironment(29659): App is not on the allowlist for updatable production driver.
+09-08 08:52:11.548 D/WM-WrkMgrInitializer(29659): Initializing WorkManager with default configuration.
+09-08 08:52:11.552 D/WM-PackageManagerHelper(29659): Skipping component enablement for androidx.work.impl.background.systemjob.SystemJobService
+09-08 08:52:11.552 D/WM-Schedulers(29659): Created SystemJobScheduler and enabled SystemJobService
+09-08 08:52:11.555 I/HWUI    (29659): Using FreeType backend (prop=Auto)
+09-08 08:52:11.569 E/ashmem  (29659): Pinning is deprecated since Android Q. Please use trim or other methods.
+09-08 08:52:11.783 I/WebViewFactory(29659): Loading com.google.android.webview version 151.0.7922.199 (code 792219903)
+--------- beginning of system
+09-08 08:52:11.787 V/ResourcesManager(29659): The following library key has been added: ResourcesKey{ mHash=b637640e mResDir=null mSplitDirs=[] mOverlayDirs=[] mLibDirs=[/data/app/~~z4KIb4P2vbfRvgbAJQO7Sw==/com.google.android.webview-sN28sbvihPlSRZ8n5-o1xw==/base.apk,/system/framework/android.test.base.jar,/system_ext/framework/androidx.window.extensions.jar] mDisplayId=0 mOverrideConfig=v36 mCompatInfo={450dpi always-compat} mLoaders=[]}
+09-08 08:52:11.788 D/ApplicationLoaders(29659): Returning zygote-cached class loader: /system/framework/android.test.base.jar
+09-08 08:52:11.788 D/ApplicationLoaders(29659): Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+09-08 08:52:11.795 D/nativeloader(29659): Configuring clns-10 for other apk /data/app/~~z4KIb4P2vbfRvgbAJQO7Sw==/com.google.android.webview-sN28sbvihPlSRZ8n5-o1xw==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~z4KIb4P2vbfRvgbAJQO7Sw==/com.google.android.webview-sN28sbvihPlSRZ8n5-o1xw==/lib/arm64:/data/app/~~z4KIb4P2vbfRvgbAJQO7Sw==/com.google.android.webview-sN28sbvihPlSRZ8n5-o1xw==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
