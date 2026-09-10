@@ -1,0 +1,223 @@
+=== Briefly ===
+verzia:      0.1.122 (122)
+zariadenie:  samsung SM-S911B
+android:     16 (API 36)
+abi:         arm64-v8a, armeabi-v7a, armeabi
+RAM:         7072 MB celkom, 1741 MB voľných
+
+=== denník aplikácie ===
+09-04 00:59:09.781 [logy] odoslané ako 2026-09-04-005907-SMS911B-auto.txt
+09-04 23:00:50.172 [app] štart, verzia 0.1.122
+09-04 23:01:35.122 [hero] 5e5cba36ac1a77ef31d8ec3b5e102b48 nahlad je uz v tele clanku
+09-04 23:01:35.123 [hero] 5e5cba36ac1a77ef31d8ec3b5e102b48 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/5e5cba36ac1a77ef31d8ec3b5e102b48/0.jpg obrazkov=1/2
+09-04 23:01:35.139 [extract] 5e5cba36ac1a77ef31d8ec3b5e102b48 kvalita=PAYWALL headless=false
+09-04 23:02:20.444 [hero] f6d0f9b73d2c310422399f259664a9ad nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/f6d0f9b73d2c310422399f259664a9ad/900.jpg obrazkov=0/0
+09-04 23:02:20.457 [extract] f6d0f9b73d2c310422399f259664a9ad kvalita=FULL headless=false
+09-04 23:02:37.338 [hero] fb886ac6778da4a96ab6dac36ffa978a nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/fb886ac6778da4a96ab6dac36ffa978a/900.jpg obrazkov=0/0
+09-04 23:02:37.359 [extract] fb886ac6778da4a96ab6dac36ffa978a kvalita=FULL headless=false
+09-04 23:02:51.719 [hero] 4f43863e1491a2bb4e135e53064ba258 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/4f43863e1491a2bb4e135e53064ba258/900.jpg obrazkov=0/0
+09-04 23:02:51.732 [extract] 4f43863e1491a2bb4e135e53064ba258 kvalita=FULL headless=false
+09-05 12:17:48.210 [app] štart, verzia 0.1.122
+09-05 12:18:21.671 [hero] 9115a81b9ba45a243b7ced4e8692b248 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9115a81b9ba45a243b7ced4e8692b248/900.jpeg obrazkov=0/0
+09-05 12:18:21.683 [extract] 9115a81b9ba45a243b7ced4e8692b248 kvalita=FULL headless=false
+09-05 12:18:58.874 [hero] 2f3d2e5dc3ba2dc0e7034f34c85c4738 nahlad je uz v tele clanku
+09-05 12:18:58.875 [hero] 2f3d2e5dc3ba2dc0e7034f34c85c4738 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/2f3d2e5dc3ba2dc0e7034f34c85c4738/0.jpg obrazkov=1/2
+09-05 12:18:58.890 [extract] 2f3d2e5dc3ba2dc0e7034f34c85c4738 kvalita=PAYWALL headless=false
+09-05 12:19:36.304 [hero] e515ac95f266adbc9f543721c16f0920 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e515ac95f266adbc9f543721c16f0920/900.jpeg obrazkov=0/0
+09-05 12:19:36.312 [extract] e515ac95f266adbc9f543721c16f0920 kvalita=FULL headless=false
+09-06 00:29:25.981 [app] štart, verzia 0.1.122
+09-06 00:29:30.792 [hero] fd29f512ff69c8d4b05b8d97a00279fe nahlad je uz v tele clanku
+09-06 00:29:30.792 [hero] fd29f512ff69c8d4b05b8d97a00279fe nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/fd29f512ff69c8d4b05b8d97a00279fe/0.jpg obrazkov=4/4
+09-06 00:29:30.807 [extract] fd29f512ff69c8d4b05b8d97a00279fe kvalita=FULL headless=false
+09-06 00:30:01.528 [hero] 24cfd40e0e304b2655a7352eae4b8321 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/24cfd40e0e304b2655a7352eae4b8321/900.img obrazkov=0/0
+09-06 00:30:01.546 [extract] 24cfd40e0e304b2655a7352eae4b8321 kvalita=FULL headless=false
+09-07 02:14:13.072 [app] štart, verzia 0.1.122
+09-07 02:14:17.773 [hero] 6799eac6dded164b5d11377d3c316912 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/6799eac6dded164b5d11377d3c316912/900.img obrazkov=2/2
+09-07 02:14:17.787 [extract] 6799eac6dded164b5d11377d3c316912 kvalita=FULL headless=false
+09-07 02:16:38.479 [hero] 55a5bfa988732cc5d4ef68ab39705807 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/55a5bfa988732cc5d4ef68ab39705807/900.img obrazkov=0/0
+09-07 02:16:38.490 [extract] 55a5bfa988732cc5d4ef68ab39705807 kvalita=FULL headless=false
+09-07 12:24:36.181 [hero] 6fe05f8acd010b8bc472281ac31c9dde nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/6fe05f8acd010b8bc472281ac31c9dde/900.img obrazkov=4/4
+09-07 12:24:36.203 [extract] 6fe05f8acd010b8bc472281ac31c9dde kvalita=FULL headless=false
+09-07 12:25:58.871 [hero] e6cd309405211a603c7753fffe2d194c nahlad je uz v tele clanku
+09-07 12:25:58.872 [hero] e6cd309405211a603c7753fffe2d194c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/e6cd309405211a603c7753fffe2d194c/0.jpg obrazkov=1/1
+09-07 12:25:58.882 [extract] e6cd309405211a603c7753fffe2d194c kvalita=FULL headless=false
+09-07 12:26:15.929 [hero] 1ff839842e09fb0a37e4abd60b3d0354 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/1ff839842e09fb0a37e4abd60b3d0354/900.jpg obrazkov=0/1
+09-07 12:26:15.945 [extract] 1ff839842e09fb0a37e4abd60b3d0354 kvalita=PARTIAL headless=false
+09-07 12:26:40.935 [hero] 713f36b98c033bcbbd13edd1d9b8f481 nahlad je uz v tele clanku
+09-07 12:26:40.936 [hero] 713f36b98c033bcbbd13edd1d9b8f481 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/713f36b98c033bcbbd13edd1d9b8f481/0.jpg obrazkov=1/2
+09-07 12:26:40.952 [extract] 713f36b98c033bcbbd13edd1d9b8f481 kvalita=PAYWALL headless=false
+09-07 12:27:24.525 [hero] fdf3399ecd3042c9a0cfa6f4f44a02a6 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/fdf3399ecd3042c9a0cfa6f4f44a02a6/900.jpg obrazkov=0/0
+09-07 12:27:24.568 [extract] fdf3399ecd3042c9a0cfa6f4f44a02a6 kvalita=FULL headless=false
+09-07 12:27:34.455 [hero] cffe0864bec93993ef71c620aa370112 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/cffe0864bec93993ef71c620aa370112/900.jpg obrazkov=0/0
+09-07 12:27:34.490 [extract] cffe0864bec93993ef71c620aa370112 kvalita=FULL headless=false
+09-07 12:27:50.300 [hero] 2d97d7dc22f1427ccdd64528b32fe87f nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/2d97d7dc22f1427ccdd64528b32fe87f/900.jpg obrazkov=1/1
+09-07 12:27:50.331 [extract] 2d97d7dc22f1427ccdd64528b32fe87f kvalita=FULL headless=false
+09-07 21:45:47.728 [app] štart, verzia 0.1.122
+09-07 21:46:08.202 [hero] bc7cf2df89b79b101c09a8d186194a4d nahlad je uz v tele clanku
+09-07 21:46:08.202 [hero] bc7cf2df89b79b101c09a8d186194a4d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/bc7cf2df89b79b101c09a8d186194a4d/0.jpg obrazkov=1/2
+09-07 21:46:08.217 [extract] bc7cf2df89b79b101c09a8d186194a4d kvalita=FULL headless=false
+09-07 21:46:40.303 [hero] 19136972e423a4b877cd9ecc380c8313 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/19136972e423a4b877cd9ecc380c8313/900.jpeg obrazkov=0/0
+09-07 21:46:40.313 [extract] 19136972e423a4b877cd9ecc380c8313 kvalita=FULL headless=false
+09-07 21:47:19.799 [hero] 9c611458ac2abbf9d861797ae0aac8fe nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9c611458ac2abbf9d861797ae0aac8fe/900.jpeg obrazkov=0/0
+09-07 21:47:19.814 [extract] 9c611458ac2abbf9d861797ae0aac8fe kvalita=FULL headless=false
+09-08 16:54:41.664 [app] štart, verzia 0.1.122
+09-08 17:28:33.862 [app] štart, verzia 0.1.122
+09-08 18:02:39.237 [app] štart, verzia 0.1.122
+09-08 18:39:27.536 [app] štart, verzia 0.1.122
+09-08 19:10:13.527 [app] štart, verzia 0.1.122
+09-08 19:43:52.687 [app] štart, verzia 0.1.122
+09-08 19:57:19.179 [app] štart, verzia 0.1.122
+09-08 20:49:33.903 [app] štart, verzia 0.1.122
+09-08 21:52:17.253 [app] štart, verzia 0.1.122
+09-08 22:22:21.973 [app] štart, verzia 0.1.122
+09-08 22:59:35.991 [app] štart, verzia 0.1.122
+09-08 23:31:10.816 [app] štart, verzia 0.1.122
+09-09 08:33:49.053 [app] štart, verzia 0.1.122
+09-09 08:59:25.529 [hero] f3fd09e9a80a00fa8983df6003e477b3 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/f3fd09e9a80a00fa8983df6003e477b3/900.img obrazkov=0/0
+09-09 08:59:25.543 [extract] f3fd09e9a80a00fa8983df6003e477b3 kvalita=FULL headless=false
+09-09 08:59:54.475 [hero] 6e0d84d2d5ac95d4c2779f0ff25e36ad nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/6e0d84d2d5ac95d4c2779f0ff25e36ad/900.png obrazkov=0/0
+09-09 08:59:54.483 [extract] 6e0d84d2d5ac95d4c2779f0ff25e36ad kvalita=FULL headless=false
+09-09 09:00:53.284 [hero] df3bc45b851f807a0bda7f505aaf968c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/df3bc45b851f807a0bda7f505aaf968c/900.jpg obrazkov=0/0
+09-09 09:00:53.301 [extract] df3bc45b851f807a0bda7f505aaf968c kvalita=FULL headless=false
+09-09 09:01:37.517 [hero] cee96ba0ca30f38f8259e709a31e391b nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/cee96ba0ca30f38f8259e709a31e391b/900.jpg obrazkov=0/0
+09-09 09:01:37.532 [extract] cee96ba0ca30f38f8259e709a31e391b kvalita=FULL headless=false
+09-09 09:02:13.960 [hero] 2c0050c1c1ea60b3b68e77f6f3776e4c nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/2c0050c1c1ea60b3b68e77f6f3776e4c/900.jpg obrazkov=0/0
+09-09 09:02:13.969 [extract] 2c0050c1c1ea60b3b68e77f6f3776e4c kvalita=FULL headless=false
+09-09 09:02:24.449 [hero] 0c41ff33985b23ce8878f8c1f8b80e6d nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/0c41ff33985b23ce8878f8c1f8b80e6d/900.jpg obrazkov=0/0
+09-09 09:02:24.465 [extract] 0c41ff33985b23ce8878f8c1f8b80e6d kvalita=FULL headless=false
+09-09 09:02:33.740 [hero] bd7586978a136c8a3ea69664adc134a4 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/bd7586978a136c8a3ea69664adc134a4/900.jpg obrazkov=0/0
+09-09 09:02:33.759 [extract] bd7586978a136c8a3ea69664adc134a4 kvalita=FULL headless=false
+09-09 09:02:52.199 [hero] 65a3ab8befb447ea3b2f40e9f9ad9836 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/65a3ab8befb447ea3b2f40e9f9ad9836/900.img obrazkov=1/1
+09-09 09:02:52.217 [extract] 65a3ab8befb447ea3b2f40e9f9ad9836 kvalita=FULL headless=false
+09-09 09:03:29.393 [hero] 24010dcc9e4a68f59ab05c0a784b90a1 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/24010dcc9e4a68f59ab05c0a784b90a1/900.jpg obrazkov=2/2
+09-09 09:03:29.400 [extract] 24010dcc9e4a68f59ab05c0a784b90a1 kvalita=FULL headless=false
+09-09 09:03:38.526 [hero] d52cc181a2401b7228cef56b0c991a12 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/d52cc181a2401b7228cef56b0c991a12/900.jpg obrazkov=0/0
+09-09 09:03:38.546 [extract] d52cc181a2401b7228cef56b0c991a12 kvalita=FULL headless=false
+09-09 21:40:00.217 [app] štart, verzia 0.1.122
+09-09 21:41:01.079 [hero] cefa1fbeb2c2e29342ff463d26ed1435 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/cefa1fbeb2c2e29342ff463d26ed1435/900.jpg obrazkov=0/0
+09-09 21:41:01.103 [extract] cefa1fbeb2c2e29342ff463d26ed1435 kvalita=FULL headless=false
+09-10 12:24:55.539 [app] štart, verzia 0.1.122
+09-10 12:24:58.753 [hero] 7589e60717772d723faed96b3bcae8fd nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/7589e60717772d723faed96b3bcae8fd/900.img obrazkov=2/2
+09-10 12:24:58.766 [extract] 7589e60717772d723faed96b3bcae8fd kvalita=FULL headless=false
+09-10 12:25:29.140 [hero] 169cacead58ae2ec56826b410a1a82cb nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/169cacead58ae2ec56826b410a1a82cb/900.jpg obrazkov=0/0
+09-10 12:25:29.162 [extract] 169cacead58ae2ec56826b410a1a82cb kvalita=FULL headless=false
+09-10 12:25:49.132 [hero] cb78f7f8b12d8de7e958207da4a29559 nahlad je uz v tele clanku
+09-10 12:25:49.132 [hero] cb78f7f8b12d8de7e958207da4a29559 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/cb78f7f8b12d8de7e958207da4a29559/0.jpg obrazkov=1/2
+09-10 12:25:49.146 [extract] cb78f7f8b12d8de7e958207da4a29559 kvalita=FULL headless=false
+09-10 12:26:14.160 [hero] c1ccc2a2b2dd4f6cc12602bcf0a639a6 nahlad je uz v tele clanku
+09-10 12:26:14.160 [hero] c1ccc2a2b2dd4f6cc12602bcf0a639a6 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/c1ccc2a2b2dd4f6cc12602bcf0a639a6/0.jpg obrazkov=1/2
+09-10 12:26:14.176 [extract] c1ccc2a2b2dd4f6cc12602bcf0a639a6 kvalita=FULL headless=false
+09-10 12:26:28.623 [hero] c0f4b0245b0e5bd3daff00170f7c33dc nahlad je uz v tele clanku
+09-10 12:26:28.623 [hero] c0f4b0245b0e5bd3daff00170f7c33dc nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/c0f4b0245b0e5bd3daff00170f7c33dc/0.jpg obrazkov=1/2
+09-10 12:26:28.640 [extract] c0f4b0245b0e5bd3daff00170f7c33dc kvalita=FULL headless=false
+09-10 13:38:00.962 [hero] 8a1b8b50bd388476ced9d8cd4bd6dd19 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/8a1b8b50bd388476ced9d8cd4bd6dd19/900.jpg obrazkov=0/0
+09-10 13:38:00.969 [extract] 8a1b8b50bd388476ced9d8cd4bd6dd19 kvalita=FULL headless=false
+09-10 13:38:31.600 [hero] 9f3f1ab01aa77aae55821b1306dc7144 nahlad je uz v tele clanku
+09-10 13:38:31.600 [hero] 9f3f1ab01aa77aae55821b1306dc7144 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/9f3f1ab01aa77aae55821b1306dc7144/0.jpg obrazkov=2/2
+09-10 13:38:31.606 [extract] 9f3f1ab01aa77aae55821b1306dc7144 kvalita=FULL headless=false
+09-10 16:55:41.057 [app] štart, verzia 0.1.122
+09-10 16:57:09.743 [hero] b78dce4f13251139eef0953c278e0256 nahlad=file:///data/user/0/sk.frodo21.reader/files/articles/b78dce4f13251139eef0953c278e0256/900.jpg obrazkov=0/0
+09-10 16:57:09.759 [extract] b78dce4f13251139eef0953c278e0256 kvalita=FULL headless=false
+
+
+=== logcat ===
+--------- beginning of main
+09-10 22:21:06.678 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.678 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.678 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.678 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.679 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.733 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.733 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.733 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.733 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.734 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.735 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPENING for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_OPEN for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_ACTIVE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_IDLE for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.736 I/CameraManagerGlobal(26355): Camera 4 facing CAMERA_FACING_FRONT state now CAMERA_STATE_CLOSED for client client.pid<1789> API Level 2 User Id 0Device Id 0
+09-10 22:21:06.771 D/ViewRootImpl(26355): Skipping stats log for color mode
+09-10 22:21:06.797 D/ConnectivityManager(26355): StackLog: [android.net.ConnectivityManager.sendRequestForNetwork(ConnectivityManager.java:4744)] [android.net.ConnectivityManager.registerDefaultNetworkCallbackForUid(ConnectivityManager.java:5469)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5436)] [android.net.ConnectivityManager.registerDefaultNetworkCallback(ConnectivityManager.java:5410)] [androidx.work.impl.utils.NetworkApi24.registerDefaultNetworkCallbackCompat(SourceFile:10)] [androidx.work.impl.constraints.trackers.NetworkStateTracker24.startTracking(SourceFile:17)] [androidx.work.impl.constraints.controllers.ConstraintController$track$1.invokeSuspend(SourceFile:105)] [androidx.work.impl.constraints.controllers.ConstraintController$track$1.invoke(SourceFile:12)] [kotlinx.coroutines.flow.ChannelFlowBuilder.collectTo(SourceFile:2)] [kotlinx.coroutines.flow.CallbackFlowBuilder.collectTo(SourceFile:58)] [kotlinx.coroutines.flow.internal.ChannelFlow$collectToFun$1.invokeSuspend(SourceFile:32)] [kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:8)] [kotlinx.coroutines.DispatchedTask.run(SourceFile:112)] [androidx.work.Worker$2.run(SourceFile:223)] [java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)] [java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)] [java.lang.Thread.run(Thread.java:1572)]
+09-10 22:21:06.826 W/libc    (26355): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-10 22:21:06.826 I/BufferQueueProducer(26355): [](id:66f300000001,api:0,p:1502256320,c:26355) setDequeueTimeout:2077252342
+09-10 22:21:06.827 W/libc    (26355): Access denied finding property "vendor.display.enable_optimal_refresh_rate"
+09-10 22:21:06.894 I/SurfaceComposerClient(26355): apply transaction with the first frame. layerId: 157179, bufferData(ID: 113193863086103, frameNumber: 1)
+--------- beginning of system
+09-10 22:21:07.134 I/Kumiho-Kumiho(26355): getPackageName: sk.frodo21.reader
+09-10 22:21:07.134 I/Kumiho-Kumiho(26355): getPackageName: sk.frodo21.reader
